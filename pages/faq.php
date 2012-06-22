@@ -1,0 +1,31 @@
+<div class="leftCol">
+	<p class="quote">\Son"cy\, Sonsy \Son"sy\, adj: Lucky; fortunate; thriving; plump. <br />[Prov. Eng. & Scot.]</p>
+</div>
+
+<div id="<?=$page?>" class="mainCol">
+	<h2>Be Aware</h2>
+	
+	<h3>Reminders</h3>
+	<p>Fourty-eight hours before your appointment you will receive an email (no more untimely phone call reminders about your appointment from front desk staff). By clicking the appropriate link in the email you can let us know that you received our email and that we can expect to see you at your appointment. Easy!</p>
+	
+	<span class="image alignright"><img src="/lib/images/photos/hallway.jpg" /></span>
+	<h3>Day of your appointment</h3>
+	<p>On the day of your appointment please arrive on time (we prefer 10 minutes early) to relax and enjoy your full service. If you are running late, we will do everything we can to accommodate you. If you are excessively late, please be aware that we may have to reschedule your appointment.</p>
+	
+	<h3>Cancellations </h3>
+	<p>Should you need to cancel or reschedule your appointment (we know life happens), we request a minimum of 24-hours' notice. You will be charged the cost of the service booked for late cancellations and "no shows" if we are unable to rebook your original appointment time with another client.</p>
+	
+	<h3>Personal items</h3>
+	<p>We regret that we cannot be responsible for loss or damage of personal articles. Please keep all valuables with you during your service.</p>
+	
+	<h3>Children</h3>
+	<p>We love children, of all ages. To ensure their safety and a relaxing experience for all our clients, we ask that your children visit us at Soncy only when they have an appointment and are accompanied by an adult. What about adults who act like children? Well, that's another story.</p>
+	
+	<h3>Method of payment</h3> 
+	<p>We accept Visa, MasterCard, debit cards, personal checks, and cash. There is a $40 fee for returned checks.</p>
+	
+	<h3>Gratuities </h3>
+	<p>Tipping is left to your discretion (and brings good karma). All tipping must be done in cash for commission hairdressers (cash is always good). Gift certificates do not include gratuities. Returns and Exchanges</p>
+	
+	<p>If you are not happy then we are not happy. Although we would never sell you something that we didn't believe in or use ourselves, we realize that everyone has their own preferences. If for any reason you are unsatisfied with a purchase we will assist you with a prompt exchange within 30 days of purchase. Amount of credit towards another product will be based on the amount of product returned. All purchases of brushes are final and may not be returned.</p>
+</div>
