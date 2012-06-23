@@ -693,6 +693,12 @@ nav li:hover ul {
 	line-height: 2;
 }
 
+#services dd.consultation {
+	font-size: 11px;
+	padding: 4px 0 0 8px;
+	float: left;
+}
+
 #services .fineprint {
 	clear: both;
 	padding-top: 12px;

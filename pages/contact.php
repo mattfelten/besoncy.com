@@ -1,5 +1,5 @@
 <div class="leftCol">
-	<p class="quote">We believe that experiencing Soncy's relaxed elegance feeds <br />your beautiful soul</p>
+	<p class="quote">&ldquo;The future looks so bright it burns my eyes&rdquo; <cite>&ndash; Oprah</cite></p>
 </div>
 
 <div id="<?=$page?>" class="mainCol">

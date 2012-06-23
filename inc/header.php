@@ -38,7 +38,7 @@
 				<ul class="cf">
 					<li><a href="/"><em>Be</em> Soncy <span>Home</span></a></li>
 					<li>
-						<a href="#" class="nc<? if($page=="team"||$page=="careers"||$page=="models"||$page=="faq"){?> active<?}?>"><em>Be</em> Informed <span>About Us</span></a>
+						<a href="#" class="nc<? if($page=="team"||$page=="careers"||$page=="model"||$page=="faq"){?> active<?}?>"><em>Be</em> Informed <span>About Us</span></a>
 						<ul class="list cf">
 							<li><a href="/team/">Our Team</a></li>
 							<li><a href="/careers/">Careers</a></li>

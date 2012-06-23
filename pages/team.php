@@ -10,7 +10,7 @@
 		<p><a href="/services/" class="btn">Find Out What We Do</a></p>
 
 		<ul class="gallery list">
-			<li><a href="/lib/images/photos/groupshot.jpg" class="fancybox" rel="gallery"><span class="ir">Zoom</span><img src="/lib/images/photos/groupshot_thumb.jpg" /></a></li>
+			<li><a href="/lib/images/photos/groupshot2.png" class="fancybox" rel="gallery"><span class="ir">Zoom</span><img src="/lib/images/photos/groupshot2_thumb.png" /></a></li>
 			<li><a href="/lib/images/photos/hairclass.jpg" class="fancybox" rel="gallery"><span class="ir">Zoom</span><img src="/lib/images/photos/hairclass_thumb.jpg" /></a></li>
 			<li><a href="/lib/images/photos/photo-21.jpg" class="fancybox" rel="gallery"><span class="ir">Zoom</span><img src="/lib/images/photos/photo-21_thumb.jpg" /></a></li>
 			<li><a href="/lib/images/photos/IMG_0113.jpg" class="fancybox" rel="gallery"><span class="ir">Zoom</span><img src="/lib/images/photos/IMG_0113_thumb.jpg" /></a></li>
@@ -31,27 +31,15 @@
 					</blockquote>
 				</li>
 			</ul>
-			<ul id="riley-frank" class="team list">
-				<li class="image"><img src="/lib/images/team.riley.png" /></li>
-				<li class="title"><h4>Jenna &ldquo;Riley&rdquo; Frank <span>Hairdresser</span></h4></li>
-				<li class="bio">
-					<p>Passion. Laughter. Hair. Art. Music. Creativity. Dance. There you have it! These are the seven words that describe me in a nut shell. Not only do I love doing short haircuts and creative color but I also love to get in my PJ&rsquo;s, throw on the latest Disney movie, and pop some popcorn. I like to shake it (that&rsquo;s &ldquo;dance&rdquo; for you older folks), paint a picture, laugh at new jokes, and make people feel beautiful.</p>
-					<p>Education is very important to me and I believe the mind continues to grow as we acquire new knowledge. I am also light hearted and always on the go. I guess you could say I like to be busy (and I like things organized). My love and passion for the music business keeps me super busy around the edges of doing great hair using my skills and learning new ones at my internship. Having had the opportunity to go on tour last summer I am excitedly anticipating some more summer festivals.</p>
-					<blockquote>
-						<p>When nothing is certain any and everything is possible.</p>
-						<cite>&ndash; Unknown Author</cite>
-					</blockquote>
-				</li>
-			</ul>
 			<ul id="jenna-rose-ritchie" class="team list">
 				<li class="image"><img src="/lib/images/team.jenna.png" /></li>
 				<li class="title"><h4>Jenna Rose Ritchie <span>Hairdresser</span></h4></li>
 				<li class="bio">
-					<p>H-e-l-l-o ! Since the beginning of my career seven years ago, I have been determined to provide each of my clients with beautiful hair. I believe that beauty comes from within and I love bringing out your inner beauty by working with you to choose a cut, color and style that highlights your best features, reflects who you are, and makes you feel special. I thoroughly enjoy what I do and am thrilled when a new person is sitting in my chair because I know that there will be one more beautiful head of hair out there in the world.</p>
-					<p>I am also committed to keeping my skills sharp and up- to-date by attending classes and events in the industry. I am excited when I learn something new and can't wait to share it with my co-workers (and you). I love classic looks and work hard to ensure that your hair looks good not only on the day I have you in my chair but also the weeks in-between your hair appointments. Say goodbye to bad hair days!</p>
+					<p>Say goodbye to bad hair days! I love pretty color, flirty layers, classic looks (with new twists) and work hard to ensure that your hair looks and feels amazing not only on the day I have you in my chair but also the weeks in-between your hair appointments. To that end, (not the split ones) I keep my creative skills sharp and up-to-date by attending a variety of classes and events in my exciting and ever changing industry. It inspires me to learn something new and can't wait to share it with my co-workers (and you).</p>
+					<p>I also believe that beauty comes from within and I enjoy bringing out your inner beauty by first listening to you as I work with you designing a cut, color and style that highlights your best features, reflects who you are, and makes you feel special. I am thoroughly fulfilled with what I do and am thrilled when a new person is sitting in my chair because I know that there will be one more beautiful head of hair and satisfied Soncy guest out there in the world.</p>
 					<blockquote>
-						<p>Every lucky man has a bad day & every pretty girl has a scar.</p>
-						<cite>&ndash; lyrics from Penny on the Train Track by Ben Kweller</cite>
+						<p>Because of your smile, you make life more beautiful.</p>
+						<cite>&ndash; Thich Nhat Hanh</cite>
 					</blockquote>
 				</li>
 			</ul>
@@ -67,18 +55,42 @@
 					</blockquote>
 				</li>
 			</ul>
-<?/*			<ul id="harli-dearborn" class="team list">
-				<li class="image"><img src="/lib/images/team.harli.png" /></li>
-				<li class="title"><h4>Harli Dearborn <span>Assistant & Hairdresser</span></h4></li>
+			<ul id="lexi" class="team list">
+				<li class="image"><img src="/lib/images/team.lexi.png" /></li>
+				<li class="title"><h4>Lexi Drimillis <span>Hairdresser</span></h4></li>
 				<li class="bio">
-					<p>The first time I expressed an interest in hair I was eight years old&mdash;I cut my own hair! At about age fifteen I started doing my friends&rsquo; hair and was hooked. From that point on I loved designing hair. I have been known to create interesting and innovative styles for both myself and my friends. I have experimented with color, curls, bangs and layers. Although I have always loved hair, it wasn&rsquo;t until May of 2011 that I attained my cosmetology license. Now I am planning my future and have dreams of doing runway, barbering, creating my own product line and even owning my own space.</p>
-					<p>Yes, I have lofty goals but I think of myself as goal oriented, creative and adventurous and know that if I push myself I can succeed. While I can be intense when it comes to achieving my goals I am also very tranquil. I believe in love, honesty and respect; I enjoy meeting new people and keeping my family and friends close.</p>
+					<p>Some of my fondest memories growing up are having a girl’s day with my mom and grandma, going to the salon together and getting our hair done. We always walked out of the salon feeling relaxed, happy & beautiful. My goal as a hairdresser at Soncy is to give you that same wonderful experience and to create a look for you that makes you feel fabulous. Ultimately, there is nothing more satisfying to me than to see my clients' faces light up when they see their stunning new styles!</p>
+					<p>Even though I love all aspects of the hair industry, I specialize in custom hair color and hair extensions. If you need color correction, I'm just the girl for the job. I also have expertise in custom hair extensions using the EvenTube technique. This process is an amazing way to add much desired length and volume in a matter of few hours. You won't believe the transformation (even Rapunzel would be impressed!).</p>
 					<blockquote>
-						<p>The greater danger for most of us is not that our aim is too high and we miss but that it is too low and we reach it.</p>
-						<cite>&ndash; Michelangelo</cite>
+						<p>It's kinda fun to do the impossible!</p>
+						<cite>&ndash; Walt Disney</cite>
 					</blockquote>
 				</li>
-*/?>
+			</ul>
+			<ul id="sahra" class="team list">
+				<li class="image"><img src="/lib/images/team.sahra.png" /></li>
+				<li class="title"><h4>Sahra Paradisi <span>Assistant</span></h4></li>
+				<li class="bio">
+					<p>I am a fresh new face in the hair industry creating a name for myself. As an assistant, I am fine tuning previously acquired skills and learning new techniques from the talented hairdressers at Soncy.</p>
+					<p>While I admire all things hair, my true passion lies in hair color. Placement of product, application styles, formulating, you name it - I live for it! I can do it all. Inspired by Chloe Kardashian, Gwen Stefani and Jennifer Aniston's color I am excited to get creative with hair, all types of hair colors, lengths and textures. One of my current priorities is to become a Certified Master Colorist.</p>
+					<p>One of the questions I often get asked is "Are you happy being a hairdresser?" My answer is always—"I am not happy; I am ecstatic!" I guess you could say I am fortunate in that I knew early in life I wanted to be a hairdresser and have always had a strong passion for pursuing my dreams. The sky is the limit (no matter what color you see it).</p>
+					<blockquote>
+						<p>If a man desires to fly he must first learn to stand and walk and run and skip and dance. One cannot fly into flying.</p>
+						<cite>&ndash; Fredriche N. German Philosopher</cite>
+					</blockquote>
+				</li>
+			</ul>
+			<ul id="alexis" class="team list">
+				<li class="image"><img src="/lib/images/team.alexis.png" /></li>
+				<li class="title"><h4>Alexis Piña <span>Space Coordinator</span></h4></li>
+				<li class="bio">
+					<p>Organization, planning and being active are my virtues and take over every aspect of my life. My organizationcraziness ranges from my personal life (including my color coded closet) to my professional life. I can’t function without it. I also love to plan things in order to bring people together and to keep myself active. I enjoy interacting with people, which is why family and friends are a big part of my life. Being Space Coordinator taps into every one of my virtues and also brings new and exciting ways of implementing them. I am always up for new challenges and being able to use what I already know in new and creative ways.</p>
+					<p>I also love education, family and friends, my boyfriend, my dog, going to the gym, music, reading and living life to its fullest!</p>
+					<blockquote>
+						<p>Life is not measured by the breaths we take, but by the moments that take our breath away</p>
+						<cite>&ndash; Unknown Author</cite>
+					</blockquote>
+				</li>
 			</ul>
 		</div>
 	</div>
