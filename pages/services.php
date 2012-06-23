@@ -90,14 +90,18 @@
 				<h2><em>Be</em> <span>Modified</span></h2>
 				<p class="label">&nbsp;</p>
 				<dl class="cf">
-					<dt>Color Correction ~ by consultation</dt>
+					<dt>Color Correction</dt>
+					<dd class="consultation">by consultation</dd>
+					<dt>Hair Extensions</dt>
+					<dd class="consultation">by consultation with Lexi</dd>
 				</dl>
 			</article>
 			<article>
 				<h2><em>Be</em> <span>Married</span></h2>
 				<p class="label">&nbsp;</p>
 				<dl class="cf">
-					<dt>Weddings ~ by consultation</dt>
+					<dt>Weddings</dt>
+					<dd class="consultation">by consultation</dd>
 				</dl>
 			</article>
 		</div>
