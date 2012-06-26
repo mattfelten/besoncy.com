@@ -13,7 +13,7 @@
 			<li><a href="/lib/images/photos/groupshot2.png" class="fancybox" rel="gallery"><span class="ir">Zoom</span><img src="/lib/images/photos/groupshot2_thumb.png" /></a></li>
 			<li><a href="/lib/images/photos/hairclass.jpg" class="fancybox" rel="gallery"><span class="ir">Zoom</span><img src="/lib/images/photos/hairclass_thumb.jpg" /></a></li>
 			<li><a href="/lib/images/photos/photo-21.jpg" class="fancybox" rel="gallery"><span class="ir">Zoom</span><img src="/lib/images/photos/photo-21_thumb.jpg" /></a></li>
-			<li><a href="/lib/images/photos/IMG_0113.jpg" class="fancybox" rel="gallery"><span class="ir">Zoom</span><img src="/lib/images/photos/IMG_0113_thumb.jpg" /></a></li>
+			<li><a href="/lib/images/photos/IMG_0114.jpg" class="fancybox" rel="gallery"><span class="ir">Zoom</span><img src="/lib/images/photos/IMG_0114_thumb.jpg" /></a></li>
 		</ul>
 	</div>
 	<div id="team-bios">

@@ -21,7 +21,7 @@
 </div>
 
 <div class="clear coupon">
-	<p>Get $25 off your first visit to Soncy! <a href="lib/pdfs/first-time-client-voucher.pdf" class="btn">Download and Print!</a>
+	<p>Get $20 off your first visit to Soncy! <a href="lib/pdfs/first-time-client-voucher.pdf" class="btn">Download and Print!</a>
 </div>
 
 <div class="clear homeIntro cf">
