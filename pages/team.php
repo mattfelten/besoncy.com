@@ -72,7 +72,7 @@
 				<li class="title"><h4>Sahra Paradisi <span>Assistant</span></h4></li>
 				<li class="bio">
 					<p>I am a fresh new face in the hair industry creating a name for myself. As an assistant, I am fine tuning previously acquired skills and learning new techniques from the talented hairdressers at Soncy.</p>
-					<p>While I admire all things hair, my true passion lies in hair color. Placement of product, application styles, formulating, you name it - I live for it! I can do it all. Inspired by Chloe Kardashian, Gwen Stefani and Jennifer Aniston's color I am excited to get creative with hair, all types of hair colors, lengths and textures. One of my current priorities is to become a Certified Master Colorist.</p>
+					<p>While I admire all things hair, my true passion lies in hair color. Placement of product, application styles, formulating, you name it - I live for it! I can do it all. Inspired by Khloe Kardashian, Gwen Stefani and Jennifer Aniston's color I am excited to get creative with hair, all types of hair colors, lengths and textures. One of my current priorities is to become a Certified Master Colorist.</p>
 					<p>One of the questions I often get asked is "Are you happy being a hairdresser?" My answer is always—"I am not happy; I am ecstatic!" I guess you could say I am fortunate in that I knew early in life I wanted to be a hairdresser and have always had a strong passion for pursuing my dreams. The sky is the limit (no matter what color you see it).</p>
 					<blockquote>
 						<p>If a man desires to fly he must first learn to stand and walk and run and skip and dance. One cannot fly into flying.</p>
@@ -84,7 +84,7 @@
 				<li class="image"><img src="/lib/images/team.alexis.png" /></li>
 				<li class="title"><h4>Alexis Piña <span>Space Coordinator</span></h4></li>
 				<li class="bio">
-					<p>Organization, planning and being active are my virtues and take over every aspect of my life. My organizationcraziness ranges from my personal life (including my color coded closet) to my professional life. I can’t function without it. I also love to plan things in order to bring people together and to keep myself active. I enjoy interacting with people, which is why family and friends are a big part of my life. Being Space Coordinator taps into every one of my virtues and also brings new and exciting ways of implementing them. I am always up for new challenges and being able to use what I already know in new and creative ways.</p>
+					<p>Organization, planning and being active are my virtues and take over every aspect of my life. My organization craziness ranges from my personal life (including my color coded closet) to my professional life. I can’t function without it. I also love to plan things in order to bring people together and to keep myself active. I enjoy interacting with people, which is why family and friends are a big part of my life. Being Space Coordinator taps into every one of my virtues and also brings new and exciting ways of implementing them. I am always up for new challenges and being able to use what I already know in new and creative ways.</p>
 					<p>I also love education, family and friends, my boyfriend, my dog, going to the gym, music, reading and living life to its fullest!</p>
 					<blockquote>
 						<p>Life is not measured by the breaths we take, but by the moments that take our breath away</p>
