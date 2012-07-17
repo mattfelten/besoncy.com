@@ -27,9 +27,6 @@
 </head>
 
 <body class="page-<?=$page?>">
-	<div id="alert">
-		<p>Thank you for visiting Soncy! If you are here because of our <strong>LivingSocial promotion</strong>, please <strong>call 562-431-8000</strong> to book your appointment.</p>
-	</div>
 	<header>
 		<div class="wrap cf">
 			<a href="/" id="logo" class="ir">Soncy - Be You</a>
