@@ -59,8 +59,8 @@
 				<li class="image"><img src="/lib/images/team.lexi.png" /></li>
 				<li class="title"><h4>Lexi Drimillis <span>Hairdresser</span></h4></li>
 				<li class="bio">
-					<p>Some of my fondest memories growing up are having a girl’s day with my mom and grandma, going to the salon together and getting our hair done. We always walked out of the salon feeling relaxed, happy & beautiful. My goal as a hairdresser at Soncy is to give you that same wonderful experience and to create a look for you that makes you feel fabulous. Ultimately, there is nothing more satisfying to me than to see my clients' faces light up when they see their stunning new styles!</p>
-					<p>Even though I love all aspects of the hair industry, I specialize in custom hair color and hair extensions. If you need color correction, I'm just the girl for the job. I also have expertise in custom hair extensions using the EvenTube technique. This process is an amazing way to add much desired length and volume in a matter of few hours. You won't believe the transformation (even Rapunzel would be impressed!).</p>
+					<p>Some of my fondest memories growing up are having a girl’s day with my mom and grandma, going to the salon together and getting our hair done. We always walked out of the salon feeling relaxed, happy & beautiful. My goal as a new hairdresser at Soncy is to give you that same wonderful experience and to create a look for you that makes you feel fabulous. Ultimately, there is nothing more satisfying to me than to see my clients' faces light up when they see their stunning new styles!</p>
+					<p>Even though I enjoy all aspects of the hair industry, I love hair color and specialize in custom hair extensions using the EvenTube technique. This process is an amazing way to add much desired length and volume in a matter of few hours. You won't believe the transformation (even Rapunzel would be impressed!).</p>
 					<blockquote>
 						<p>It's kinda fun to do the impossible!</p>
 						<cite>&ndash; Walt Disney</cite>
