@@ -11,6 +11,12 @@
 
 	<h3><span>Current</span> Employment Opportunities</h3>
 
+	<h4>Hairdresser</h4>
+	<span class="image alignright"><img src="/lib/images/photos/careers.hairdresser.jpg" /></span>
+	<p>Full or part-time commission-based position available. Must be a licensed cosmetologist in the state of CA. Prefer to hire someone with an established (or at least growing) clientele base and retail sales experience. Apple computer skills a plus. We are interested in someone who is flexible, available and willing to work Tuesday through Saturday (Sundays and Mondays are an option) and participate in ongoing educational classes.</p>
+
+	<div class="rule"></div>
+
 	<h4>Full-Time Independent Contractor</h4>
 	<p>Ready to take the next steps in your career? Considering your option to be an Independent Contractor or move your business to a new space? If a chair at Soncy is a consideration for you to serve your clients and be apart of a beautifully enjoyable and creative workday; come by, let’s explore the possibilities.</p>
 
@@ -21,11 +27,6 @@
 
 	<div class="rule"></div>
 
-	<h4>Hairdresser</h4>
-	<span class="image alignright"><img src="/lib/images/photos/careers.hairdresser.jpg" /></span>
-	<p>Full or part-time commission-based position available. Must be a licensed cosmetologist in the state of CA. Prefer to hire someone with an established (or at least growing) clientele base and retail sales experience. Apple computer skills a plus. We are interested in someone who is flexible, available and willing to work Tuesday through Saturday (Sundays and Mondays are an option) and participate in ongoing educational classes.</p>
-
-	<div class="rule"></div>
 	<h3><span>Future</span> Employment Opportunities</h3>
 
 	<h4>Hairdresser Assistant</h4>
