@@ -590,6 +590,13 @@ nav li:hover ul {
 	margin-bottom: 30px;
 }
 
+p.cta {
+	color: #8f6d44;
+	font-size: 16px;
+	margin-top: 22px;
+	opacity: .8;
+}
+
 #services .column {
 	float: left;
 	width: 280px;

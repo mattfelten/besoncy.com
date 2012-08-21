@@ -4,7 +4,8 @@
 
 <div id="<?=$page?>" class="mainCol cf">
 	<h2>Be Beautified</h2>
-	<p class="intro">In our inviting sun-drenched space we as artists at Soncy push ourselves to be creative, relevant and joy-filled with the privilege of serving you.</p>
+	<p>In our inviting sun-drenched space we as artists at Soncy push ourselves to be creative, relevant and joy-filled with the privilege of serving you.</p>
+	<p class="cta intro">Color change? Ombre? Consider a <a href="https://es.salontranscripts.com/4d503ca300015d0e03f3a8c0/">Complimentary Consultation</a> to set a plan and timing for your best result.</p>
 	<div class="cf">
 		<div class="column">
 			<article>
