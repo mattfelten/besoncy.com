@@ -55,19 +55,6 @@
 					</blockquote>
 				</li>
 			</ul>
-			<ul id="sahra" class="team list">
-				<li class="image"><img src="/lib/images/team.sahra.png" /></li>
-				<li class="title"><h4>Sahra Paradisi <span>Assistant</span></h4></li>
-				<li class="bio">
-					<p>I am a fresh new face in the hair industry creating a name for myself. As an assistant, I am fine tuning previously acquired skills and learning new techniques from the talented hairdressers at Soncy.</p>
-					<p>While I admire all things hair, my true passion lies in hair color. Placement of product, application styles, formulating, you name it - I live for it! I can do it all. Inspired by Khloe Kardashian, Gwen Stefani and Jennifer Aniston's color I am excited to get creative with hair, all types of hair colors, lengths and textures. One of my current priorities is to become a Certified Master Colorist.</p>
-					<p>One of the questions I often get asked is "Are you happy being a hairdresser?" My answer is always—"I am not happy; I am ecstatic!" I guess you could say I am fortunate in that I knew early in life I wanted to be a hairdresser and have always had a strong passion for pursuing my dreams. The sky is the limit (no matter what color you see it).</p>
-					<blockquote>
-						<p>If a man desires to fly he must first learn to stand and walk and run and skip and dance. One cannot fly into flying.</p>
-						<cite>&ndash; Fredriche N. German Philosopher</cite>
-					</blockquote>
-				</li>
-			</ul>
 			<ul id="alexis" class="team list">
 				<li class="image"><img src="/lib/images/team.alexis.png" /></li>
 				<li class="title"><h4>Alexis Piña <span>Space Coordinator</span></h4></li>
@@ -77,6 +64,27 @@
 					<blockquote>
 						<p>Life is not measured by the breaths we take, but by the moments that take our breath away</p>
 						<cite>&ndash; Unknown Author</cite>
+					</blockquote>
+				</li>
+			</ul>
+			<ul id="Nicole" class="team list">
+				<li class="image"><img src="/lib/images/team.nicole.png" /></li>
+				<li class="title"><h4>Nicole Mesquit <span>Assistant - New Talent</span></h4></li>
+				<li class="bio">
+					<p>I am new to this artful industry of hairdressing and I cannot wait to see what the future holds, I am open to learn and share!</p>
+
+					<p>As an assistant and new talent, I am refining my skills, learning new ones and exercising my passion, dedication and creativity at Soncy with this great team.</p>
+
+					<p>Hair has always been my passion and I am (finally) following my dream. Having stepped way from a career in technology, I am inspired everyday by all things around me, especially &hellip; H A I R!  Color and styling (fabulous finish work) are amongst my favorite skills. Inspired by classic and retro hairstyles with a twist of the new, my excitement grows to get even more creative with hair. Seeing that smile on a clients face when they look in the mirror in admiration of their new finished look is such a priceless moment for me and there is no other feeling I’ve experienced like it.</p>
+
+					<p>A lot of my inspiration also comes from my personal interests which include music, movies, and art.</p>
+
+					<p>I am loving my introduction to Oribe's fabulous product line, it is awesome to work with and my new favorite, as I am a self professed hair product junkie!</p>
+
+					<p>The future is bright for me and I am here to embrace it &mdash; one head of hair at a time!</p>
+					<blockquote>
+						<p>Love of beauty is taste, creation of beauty is art.</p>
+						<cite>&ndash; Ralph Waldo Emerson</cite>
 					</blockquote>
 				</li>
 			</ul>
