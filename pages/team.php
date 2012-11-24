@@ -67,6 +67,27 @@
 					</blockquote>
 				</li>
 			</ul>
+			<ul id="Nicole" class="team list">
+				<li class="image"><img src="/lib/images/team.nicole.png" /></li>
+				<li class="title"><h4>Nicole Mesquit <span>Assistant - New Talent</span></h4></li>
+				<li class="bio">
+					<p>I am new to this artful industry of hairdressing and I cannot wait to see what the future holds, I am open to learn and share!</p>
+
+					<p>As an assistant and new talent, I am refining my skills, learning new ones and exercising my passion, dedication and creativity at Soncy with this great team.</p>
+
+					<p>Hair has always been my passion and I am (finally) following my dream. Having stepped way from a career in technology, I am inspired everyday by all things around me, especially &hellip; H A I R!  Color and styling (fabulous finish work) are amongst my favorite skills. Inspired by classic and retro hairstyles with a twist of the new, my excitement grows to get even more creative with hair. Seeing that smile on a clients face when they look in the mirror in admiration of their new finished look is such a priceless moment for me and there is no other feeling I’ve experienced like it.</p>
+
+					<p>A lot of my inspiration also comes from my personal interests which include music, movies, and art.</p>
+
+					<p>I am loving my introduction to Oribe's fabulous product line, it is awesome to work with and my new favorite, as I am a self professed hair product junkie!</p>
+
+					<p>The future is bright for me and I am here to embrace it &mdash; one head of hair at a time!</p>
+					<blockquote>
+						<p>Love of beauty is taste, creation of beauty is art.</p>
+						<cite>&ndash; Ralph Waldo Emerson</cite>
+					</blockquote>
+				</li>
+			</ul>
 		</div>
 	</div>
 </div>
