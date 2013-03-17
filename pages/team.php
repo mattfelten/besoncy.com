@@ -55,15 +55,15 @@
 					</blockquote>
 				</li>
 			</ul>
-			<ul id="alexis" class="team list">
-				<li class="image"><img src="/lib/images/team.alexis.png" /></li>
-				<li class="title"><h4>Alexis Piña <span>Space Coordinator</span></h4></li>
+			<ul id="elizabeth" class="team list">
+				<li class="image"><img src="/lib/images/team.elizabeth.png" /></li>
+				<li class="title"><h4>Elizabeth Webber <span>New Talent</span></h4></li>
 				<li class="bio">
-					<p>Organization, planning and being active are my virtues and take over every aspect of my life. My organization craziness ranges from my personal life (including my color coded closet) to my professional life. I can’t function without it. I also love to plan things in order to bring people together and to keep myself active. I enjoy interacting with people, which is why family and friends are a big part of my life. Being Space Coordinator taps into every one of my virtues and also brings new and exciting ways of implementing them. I am always up for new challenges and being able to use what I already know in new and creative ways.</p>
-					<p>I also love education, family and friends, my boyfriend, my dog, going to the gym, music, reading and living life to its fullest!</p>
+					<p>Hairdressing is my love and muse! I live by the philosophy 'You only get one chance at life', so I intend to spend my career doing what I love &mdash; giving my clients the most beautiful hair. I draw my inspiration from all art forms, from sculpture, to painting, to fashion. Before becoming a hairdresser, I worked as a Disney Princess; bringing magic to Make-A-Wish children. My family and I also works as a team to renovate properties, turning houses into homes. Outside of Soncy, I spend as much time as I can with my handsome boyfriend and our awesome cat, Mauxi.</p>
+					<p>My motivation comes from pushing myself in new directions, and the everyday support from loved ones as they encourage me one new skill and one new client at a time.</p>
 					<blockquote>
-						<p>Life is not measured by the breaths we take, but by the moments that take our breath away</p>
-						<cite>&ndash; Unknown Author</cite>
+						<p>Looking at the stars always makes me dream.</p>
+						<cite>&ndash; Vincent Van Gogh</cite>
 					</blockquote>
 				</li>
 			</ul>

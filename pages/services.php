@@ -106,6 +106,6 @@
 		</div>
 	</div>
 	<div class="fineprint">
-		<p><small>Service price is dependent on the level of hairdresser skill and experience. <span class="br"/>Prices are subject to adjustment annually in September. <span class="br"/>We offer complimentary consultations and bang trims.</small></p>
+		<p><small>Service price is dependent on the level of hairdresser skill and experience. <span class="br"/>Prices are subject to adjustment annually. <span class="br"/>We offer complimentary consultations and bang trims.</small></p>
 	</div>
 </div>

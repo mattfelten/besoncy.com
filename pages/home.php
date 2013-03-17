@@ -12,7 +12,7 @@
 			<li><img src="/lib/images/slide.5.jpg" width="609" height="373"/></li>
 			<li><img src="/lib/images/slide.13.jpg" width="609" height="373"/></li>
 			<li><img src="/lib/images/slide.12.jpg" width="609" height="373"/></li>
-			<li><img src="/lib/images/slide.7.jpg" width="609" height="373"/></li>
+			<li><img src="/lib/images/slide.14.jpg" width="609" height="373"/></li>
 			<li><img src="/lib/images/slide.8.jpg" width="609" height="373"/></li>
 			<li><img src="/lib/images/slide.6.jpg" width="609" height="373"/></li>
 			<li><img src="/lib/images/slide.9.jpg" width="609" height="373"/></li>

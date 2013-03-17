@@ -110,7 +110,6 @@ header .wrap {
 	width: 940px;
 	margin: 0 auto;
 	padding: 25px 10px;
-	background: url(../images/bg.flourish.png) no-repeat 65px top;
 }
 
 header #logo {
@@ -282,7 +281,6 @@ nav li:hover ul {
 }
 
 #main .wrap {
-	background: url(../images/bg.flourish.png) no-repeat 65px -156px;
 	width: 940px;
 	margin: 0 auto;
 	padding: 0 10px 80px;
