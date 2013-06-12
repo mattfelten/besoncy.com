@@ -406,11 +406,8 @@ nav li:hover ul {
 	padding: 40px 0 10px;
 }
 
-.coupon a.btn {
+.coupon .coupon-btn {
 	margin-left: 20px;
-	width: 238px;
-	text-align: center;
-	background: url(../images/btn.team.png) no-repeat;
 }
 
 /* @end */
@@ -584,7 +581,7 @@ nav li:hover ul {
 /* @group Services Page
 ----------------------------------------------- */
 
-#services p.intro {
+p.intro {
 	margin-bottom: 30px;
 }
 
@@ -937,6 +934,15 @@ p.cta {
 
 /* @end */
 
+/* @group Promotions
+----------------------------------------------- */
+
+#promotions .coupon-btn {
+	margin-left: 20px;
+}
+
+/* @end */
+
 /* @group Looks
 ----------------------------------------------- */
 
@@ -1117,7 +1123,7 @@ p.cta {
 /* @group Credits
 ----------------------------------------------- */
 
-#credits .content {
+.content {
 	margin-top: 20px;
 	padding-left: 50px;
 
@@ -1372,6 +1378,12 @@ footer p a.full-site {
 .btn:hover,
 .oldie .btn:hover {
 	color: #fff;
+}
+
+.coupon-btn {
+	width: 238px;
+	text-align: center;
+	background: url(../images/btn.team.png) no-repeat;
 }
 
 span.br {
