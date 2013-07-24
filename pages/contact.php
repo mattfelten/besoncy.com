@@ -9,11 +9,6 @@
 	<address><span>a. </span>600 Pacific Coast Highway, Ste. 216<br />Seal Beach, CA 90740</address>
 	<address><span>p. </span>562.431.8000</address>
 
-	<div class="sidebar">
-		<h3>Be Soncy Everywhere!</h3>
-		<a href="http://powerhousefit.com" class="ir phf">Powerhouse Fitness</a>
-	</div>
-
 	<form id="contact-form" action="/submit.php" method="post">
 		<h3>Or fill out our <span>contact form!</span></h3>
 		<div>
