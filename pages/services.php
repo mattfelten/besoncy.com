@@ -31,7 +31,7 @@
 				<ul class="list cf">
 					<li>
 						<span class="service">Blow-out</span>
-						<span class="price">$30+</span>
+						<span class="price">$35+</span>
 					</li>
 					<li class="subtext">
 						<span class="service">w/ flat iron or curling iron to change texture</span>
@@ -125,6 +125,6 @@
 		</div>
 	</div>
 	<div class="fineprint">
-		<p><small>Service price is dependent on the level of hairdresser skill and experience. <span class="br"/>Prices are subject to adjustment annually. <span class="br"/>We offer complimentary consultations and bang trims.</small></p>
+		<p><small>Service price is dependent on the level of hairdresser skill and experience. <span class="br"/>Prices are subject to adjustment annually. <span class="br"/>We offer complimentary consultations.</small></p>
 	</div>
 </div>
