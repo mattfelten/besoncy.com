@@ -23,7 +23,7 @@
 </div>
 
 <div class="clear coupon">
-	<p>Get a discount on your first visit! <a href="/promotions/" class="coupon-btn btn">New Client Deals</a>
+	<p>Our gift for your first visit! <a href="/promotions/" class="coupon-btn btn">New Client Deals</a>
 </div>
 
 <div class="clear homeIntro cf">
