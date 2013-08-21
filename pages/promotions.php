@@ -18,5 +18,11 @@
 			<h3>$20.00 off any service with Elizabeth</h3>
 			<p>Call 562-431-8000 or book online to schedule your first appointment with <a href="/team/">Elizabeth</a> at Soncy.</p>
 		</div>
+		<div class="rule"></div>
+		<div>
+			<a href="/lib/pdfs/new-client-alex.pdf" class="coupon-btn btn alignright">Download and Print!</a>
+			<h3>$15.00 off any service with Alex</h3>
+			<p>Call 562-431-8000 or book online to schedule your first appointment with <a href="/team/">Alex</a> at Soncy.</p>
+		</div>
 	</div>
 </div>
