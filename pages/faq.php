@@ -1,5 +1,5 @@
 <div class="leftCol">
-	<p class="quote">\Son"cy\, Sonsy \Son"sy\, adj: Lucky; fortunate; thriving; plump. <br />[Prov. Eng. & Scot.]</p>
+	<p class="quote">\Son"cy\, Sonsy \Son"sy\, a. [Scot. sonce, sons, prosperity, happiness, fr. Gael. & Ir. sonas.] Lucky; fortunate; thriving; plump. [Prov. Eng. & Scot.]</p>
 </div>
 
 <div id="<?=$page?>" class="mainCol">
@@ -25,7 +25,7 @@
 	<p>We accept Visa, MasterCard, debit cards, personal checks, and cash. There is a $40 fee for returned checks.</p>
 
 	<h3>Gratuities </h3>
-	<p>Tipping is left to your discretion (and brings good karma). All tipping must be done in cash for commission hairdressers (cash is always good). Gift certificates do not include gratuities.</p>
+	<p>Tipping is left to your discretion (and brings good karma). We encourage tipping in cash for commission hairdressers. Gift certificates do not include gratuities.</p>
 
 	<h3>Returns and Exchanges</h3>
 	<p>If you are not happy then we are not happy. Although we would never sell you something that we didn't believe in or use ourselves, we realize that everyone has their own preferences. If for any reason you are unsatisfied with a purchase we will assist you with a prompt exchange within 30 days of purchase. Amount of credit towards another product will be based on the amount of product returned. All purchases of brushes are final and may not be returned.</p>
