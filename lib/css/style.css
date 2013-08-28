@@ -135,6 +135,10 @@ nav li {
 	z-index: 1000;
 }
 
+nav li:hover {
+	z-index: 1001;
+}
+
 nav li:first-child {
 	margin-left: 0;
 }
