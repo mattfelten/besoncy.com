@@ -1161,9 +1161,13 @@ p.cta {
 }
 
 #bottom p {
+	margin-top: 10px;
 	font-size: 12px;
 	line-height: 22px;
-	margin-bottom: 20px;
+}
+
+#bottom p span {
+	color: #f58321;
 }
 
 #bottom .be-booked {
@@ -1181,6 +1185,11 @@ p.cta {
 	text-decoration: none;
 	text-transform: lowercase;
 	text-shadow: 0 -1px 0 rgba(0,0,0,.7);
+
+	padding-top: 15px;
+	background-position: left bottom;
+	position: relative;
+	top: -5px;
 }
 
 .ie9 #bottom .be-booked,

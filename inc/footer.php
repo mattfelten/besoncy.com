@@ -5,8 +5,8 @@
 		<div class="wrap cf">
 			<div class="column">
 				<h2>Make an appointment</h2>
-				<p>Booking online is easy. You’ll get an email confirmation straight to your inbox.</p>
 				<a href="https://es.salontranscripts.com/4d503ca300015d0e03f3a8c0/" class="ir be-booked"><span>Be</span> Booked</a>
+				<p>Living Social Guests, <span>call 562-431-8000</span> to book with Elizabeth or Alex</p>
 			</div>
 			<div class="column">
 				<h2>Let's talk</h2>
