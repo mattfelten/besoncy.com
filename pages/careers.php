@@ -9,7 +9,7 @@
 	<p>If you are interested in working at Soncy and feel you are a fit with our ongoing opportunities, please come on by, introduce yourself, and experience our space. We'd be happy to meet you and show you around. Be sure to bring a copy of your resume and cover letter for consideration.</p>
 	<p><small>Due to the nature of our industry, all job inquiries and interviews are kept confidential as to not interrupt your present position.</small></p>
 
-	<h3><span>Current</span> Employment Opportunities</h3>
+	<h3>&nbsp;</h3>
 
 	<h4>Soncy Hairdressers</h4>
 	<span class="image alignright"><img src="/lib/images/photos/careers.hairdresser.jpg" /></span>
