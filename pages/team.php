@@ -55,18 +55,6 @@
 					</blockquote>
 				</li>
 			</ul>
-			<ul id="elizabeth" class="team list">
-				<li class="image"><img src="/lib/images/team.elizabeth.png" /></li>
-				<li class="title"><h4>Elizabeth Webber <span>Hairdresser &amp; New Talent</span></h4></li>
-				<li class="bio">
-					<p>Hairdressing is my love and muse! I live by the philosophy 'You only get one chance at life', so I intend to spend my career doing what I love &mdash; giving my clients the most beautiful hair. I draw my inspiration from all art forms, from sculpture, to painting, to fashion. Before becoming a hairdresser, I worked as a Disney Princess; bringing magic to Make-A-Wish children. My family and I also works as a team to renovate properties, turning houses into homes. Outside of Soncy, I spend as much time as I can with my handsome boyfriend and our awesome cat, Mauxi.</p>
-					<p>My motivation comes from pushing myself in new directions, and the everyday support from loved ones as they encourage me one new skill and one new client at a time.</p>
-					<blockquote>
-						<p>Looking at the stars always makes me dream.</p>
-						<cite>&ndash; Vincent Van Gogh</cite>
-					</blockquote>
-				</li>
-			</ul>
 			<ul id="alex" class="team list">
 				<li class="image"><img src="/lib/images/team.alex.png" /></li>
 				<li class="title"><h4>Alex Pi&ntilde;a <span>Hairdresser &amp; New Talent</span></h4></li>
