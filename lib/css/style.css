@@ -1332,7 +1332,8 @@ footer p a.full-site {
 }
 
 #alert p {
-	margin: 0;
+	margin: 0 auto;
+	max-width: 680px;
 }
 
 #alert strong {
