@@ -26,7 +26,7 @@
 
 <div class="clear homeIntro cf">
 	<div>
-		<p>Since we opened our doors in February of 2011, Soncy has offered the Seal Beach and neighboring communities an alternative to the typical hair salon. You might say we are the un-salon. Yes, we “do hair” at Soncy---cutting, conditioning, coloring, smoothing, and styling, but at our space the experience involves so much more.</p>
+		<p>Since we opened our doors in February of 2011, Soncy has offered the Seal Beach and neighboring communities an alternative to the typical hair salon. You might say we are the un-salon. Yes, we "do hair" at Soncy&mdash;cutting, conditioning, coloring, smoothing, and styling, but at our space the experience involves so much more.</p>
 		<p>We offer truly personalized attention.  We believe every client is special, with their own hair texture, style and personal image.  That is why we really listen to you before each session begins so that we can co-create the desired look for you.</p>
 	</div>
 	<div>
