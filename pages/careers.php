@@ -13,7 +13,7 @@
 
 	<h4>Soncy Hairdressers</h4>
 	<span class="image alignright"><img src="/lib/images/photos/careers.hairdresser.jpg" /></span>
-	<p>At Soncy we employ full and part-time commission-based hairdressers with a California license in cosmetologist. We prefer to hire talent with an established (or at least growing) clientele base and product knowledge and sales experience. Apple computer skills a plus. We are interested in those who are flexible, available and willing to work Tuesday through Saturday (Sundays and Mondays are an option) and participate in ongoing educational workshops.</p>
+	<p>At Soncy we employ full and part-time commission-based hairdressers with a California license in cosmetologist. We prefer to hire talent with an established (or at least growing) clientele base, product knowledge and sales experience. Apple computer skills a plus. We are interested in those who are flexible, available and willing to work Tuesday through Saturday (Sundays and Mondays are an option) and participate in ongoing educational workshops.</p>
 
 	<div class="rule"></div>
 <? /*
@@ -31,7 +31,7 @@
 	<h3><span>On-going</span> Employment Opportunities</h3>
 
 	<h4>Hairdresser Assistant</h4>
-	<span class="image alignright"><img src="/lib/images/photos/careers.assistant.jpg" /></span>
+	<span class="image alignright" style="margin-bottom: 100px;"><img src="/lib/images/photos/careers.assistant.jpg" /></span>
 	<p>Full-time/part-time assistant positions occasionally come available. We are continually interviewing to identify a fitting talent for our team and mentoring program. Applicants must be a licensed cosmetologist in the state of CA. The talented Person in this position would serve as the liaison between the owner and her clients accomplishing an array of tasks including (but not limited to) booking appointments, greeting clients when they arrive, shampooing and conditioning clients' hair, and assisting with clean-up. There will also be opportunities to observe cutting techniques, color application and finish work. Must be willing to participate in ongoing educational workshops as the goal would be for this person to grow into a position as hairdresser at Soncy. Hourly pay plus gratuities.</p>
 
 </div>

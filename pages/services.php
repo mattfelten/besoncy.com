@@ -1,5 +1,5 @@
 <div class="leftCol">
-	<p class="quote">&ldquo;Soncy is the heartbeat of service to the beauty of men and women&rdquo; <cite>&ndash; Marie B.</cite></p>
+	<p class="quote">&ldquo;Love of beauty is <br />taste. The creation of <br />beauty is art.&rdquo; <cite>&ndash; Ralph Waldo Emerson</cite></p>
 </div>
 
 <div id="<?=$page?>" class="mainCol cf">
