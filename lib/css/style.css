@@ -1322,7 +1322,8 @@ footer p a.full-site {
 	background: #262221;
 	color: #9b9b9b;
 	font-size: 11px;
-	line-height: 35px;
+	line-height: 1.6;
+	padding: 9px;
 	text-align: center;
 
 	-webkit-box-shadow: 0 0 5px rgba(0,0,0,.4);
