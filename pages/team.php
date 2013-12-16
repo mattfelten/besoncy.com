@@ -1,5 +1,5 @@
 <div class="leftCol">
-	<p class="quote">The nature of our team <br/>is to express ourselves <br />as creative, loving <br />human beings</p>
+	<p class="quote">&ldquo;Unity is strength&hellip; when there is teamwork and collaboration, wonderful things can be achieved.&rdquo;<cite>&ndash; Mattie Stepanek</cite></p>
 </div>
 
 <div id="<?=$page?>" class="mainCol">
@@ -24,7 +24,7 @@
 				<li class="title"><h4>Melanie Hales <span>Hairdresser</span></h4></li>
 				<li class="bio">
 					<p>For more than 3 decades, I have made my love of people and beautiful hair my focus. I have been inspired by, trained with, and worked alongside many industry notables. I keep my approach to the art of hair simple and healthy &mdash; I strive for a balanced blend of classics and current trends. Because it is important to me that clients have hair they can manage on their own, I work with them to develop home-care plans and skills for recreating their Soncy looks every day. I believe hair is a permanent accessory, to be enjoyed! I suggest you do the best you can with it&hellip; play with the texture and have fun, style after style, color after color (as long as you keep it healthy).</p>
-					<p>As the owner of Soncy, I am proud that my team of hairdressers is full of heart and talent. Several of them have been my amazing assistants and it is exciting to see them grow professionally. Being a mentor to a new generation of hairdressers is a challenge I enjoy &mdash; as it is my intention to do my best to set them up for success in this ever changing industry. It is a way for me to give back to an industry that has given me so much. In a way, it is honoring so many that have generously "held me up," mentoring me throughout my career.</p>
+					<p>As the owner of Soncy, I am proud that our team of hairdressers is full of heart and talent. Several of them have been my amazing assistants and it is exciting to see them grow professionally &mdash; as my intention is to do my best setting them up for success in this ever changing industry. It is a way for me to give back to an industry that has given me so much. In a way, it is honoring so many that have generously "held me up," mentoring me throughout my career.</p>
 					<blockquote>
 						<p><u>S</u>o <u>O</u>nly <u>N</u>ow <u>C</u>an <u>Y</u>ou <u>Be</u> <u>You</u> &ndash; Soncy Be You</p>
 						<cite>&ndash; Bonnie Barnet</cite>

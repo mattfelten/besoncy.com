@@ -11,6 +11,11 @@
 
 	<h3>&nbsp;</h3>
 
+	<h4>Full-Time/Part time Independent Contractor</h4>
+	<p>Ready to take the next steps in your career? Considering your options to be an Independent Contractor or move your business to a new space? If a chair at Soncy is a consideration for you to serve your clients and be apart of a beautifully enjoyable and creative workday; come by, let’s explore the possibilities!</p>
+
+	<div class="rule"></div>
+
 	<h4>Soncy Hairdressers</h4>
 	<span class="image alignright"><img src="/lib/images/photos/careers.hairdresser.jpg" /></span>
 	<p>At Soncy we employ full and part-time commission-based hairdressers with a California license in cosmetologist. We prefer to hire talent with an established (or at least growing) clientele base, product knowledge and sales experience. Apple computer skills a plus. We are interested in those who are flexible, available and willing to work Tuesday through Saturday (Sundays and Mondays are an option) and participate in ongoing educational workshops.</p>
