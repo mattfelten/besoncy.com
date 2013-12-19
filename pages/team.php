@@ -31,18 +31,6 @@
 					</blockquote>
 				</li>
 			</ul>
-			<ul id="jenna-rose-ritchie" class="team list">
-				<li class="image"><img src="/lib/images/team.jenna.png" /></li>
-				<li class="title"><h4>Jenna Rose Ritchie <span>Hairdresser</span></h4></li>
-				<li class="bio">
-					<p>Say goodbye to bad hair days! I love pretty color, flirty layers, classic looks (with new twists) and work hard to ensure that your hair looks and feels amazing not only on the day I have you in my chair but also the weeks in-between your hair appointments. To that end, (not the split ones) I keep my creative skills sharp and up-to-date by attending a variety of workshops and events in my exciting and ever changing industry. It inspires me to learn something new and can't wait to share it with my co-workers (and you).</p>
-					<p>I also believe that beauty comes from within and I enjoy bringing out your inner beauty by first listening to you as I work with you designing a cut, color and style that highlights your best features, reflects who you are, and makes you feel special. I am thoroughly fulfilled with what I do and am thrilled when a new person is sitting in my chair because I know that there will be one more beautiful head of hair and satisfied Soncy guest out there in the world.</p>
-					<blockquote>
-						<p>Because of your smile, you make life more beautiful.</p>
-						<cite>&ndash; Thich Nhat Hanh</cite>
-					</blockquote>
-				</li>
-			</ul>
 			<ul id="jessica-bennett" class="team list">
 				<li class="image"><img src="/lib/images/team.jessica.png" /></li>
 				<li class="title"><h4>Jessica Bennett <span>Hairdresser</span></h4></li>
