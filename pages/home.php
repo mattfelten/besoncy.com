@@ -1,5 +1,5 @@
 <div class="leftCol">
-	<p class="quote">We believe that experiencing Soncy's relaxed elegance feeds <br />your beautiful soul</p>
+	<p class="quote">We believe relaxed luxury, your experience, and results are everything</p>
 </div>
 
 <div class="mainCol">
