@@ -16,9 +16,10 @@
 			<div class="column">
 				<h2>Connect with us</h2>
 				<ul class="social list">
-					<li class="facebook"><a href="http://www.facebook.com/besoncy">Be our friend on Facebook</a></li>
-					<li class="twitter"><a href="https://twitter.com/besoncy">Follow us on Twitter</a></li>
-					<li class="yelp"><a href="http://yelp.com/biz/soncy-seal-beach">Leave a review on Yelp</a></li>
+					<li class="facebook"><a href="http://www.facebook.com/besoncy" class="ir">Be our friend on Facebook</a></li>
+					<li class="instagram"><a href="http://instagram.com/besoncy" class="ir">Follow us on Instagram</a></li>
+					<li class="twitter"><a href="https://twitter.com/besoncy" class="ir">Follow us on Twitter</a></li>
+					<li class="yelp"><a href="http://yelp.com/biz/soncy-seal-beach" class="ir">Leave a review on Yelp</a></li>
 				</ul>
 			</div>
 		</div>

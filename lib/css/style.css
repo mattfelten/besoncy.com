@@ -1210,6 +1210,7 @@ p.cta {
 }
 
 #bottom li {
+	display: inline-block;
 	font-size: 14px;
 	line-height: 25px;
 	margin-bottom: 1.1em;
@@ -1217,10 +1218,10 @@ p.cta {
 
 #bottom li a,
 #bottom li a:visited {
-	display: block;
+	display: inline-block;
 	color: #c5c5c5;
 	text-decoration: none;
-	padding-left: 35px;
+	width: 35px;
 }
 
 #bottom li a:hover {
@@ -1234,6 +1235,14 @@ p.cta {
 
 #bottom li.facebook a:hover {
 	background-position: 5px bottom;
+}
+
+#bottom li.instagram a {
+	background: url(../images/btn.instagram.png) no-repeat left 3px;
+}
+
+#bottom li.instagram a:hover {
+	background-position: left bottom;
 }
 
 #bottom li.twitter a {
