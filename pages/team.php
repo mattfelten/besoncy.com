@@ -56,21 +56,6 @@
 					</blockquote>
 				</li>
 			</ul>
-			<ul id="megan" class="team list">
-				<li class="image"><img src="/lib/images/team.megan.png" /></li>
-				<li class="title"><h4>Megan Dunn <span>Hairdresser</span></h4></li>
-				<li class="bio">
-					<p>Before coming to Soncy, I spent over eight years at New York's finest salons learning perfect coloring formulas and techniques from top colorists in the industry. Working for Rita Hazan, John Frieda Salon and Mark Garrison where my vision and extraordinary skill set quickly made me a salon favorite. Pampering a client list of celebrities, fashion editors, socialites, and media figures was my typical day.</p>
-
-					<p>After some travel between New York and LA styling clients, coming to California definitely is a dream come true! I am excited to be working in Seal Beach at Soncy where I found (Oribe Hair Care) a perfect balance to focus on establishing a new client base and lifestyle. With a fundamental understanding everyone is individual; I am inspired by diverse personalities &mdash; paying superior attention to what my guests need and want with their hair. I believe hair is an extension of who we are inside. My speciality is in customizing (and maintaining) hair transformations that will bring out your natural beauty and smile.You can turn to me to give you the look and tools (you are hoping for) to maintain your year around ultimate hair!</p>
-
-					<p>When I am away from the salon, I enjoy spending time at the beach, and love volunteering at the animal shelter. Cooking healthy meals to support my fitness is also something I am into. Safe to say, I am adventurous and enjoy traveling to new places as well as spending time with my family and friends.</p>
-					<blockquote>
-						<p>Beauty is being the best possible version of yourself on the inside and out</p>
-						<cite>&ndash; Unknown</cite>
-					</blockquote>
-				</li>
-			</ul>
 		</div>
 	</div>
 </div>
