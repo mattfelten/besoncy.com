@@ -47,9 +47,9 @@
 				<li class="image"><img src="/lib/images/team.alex.png" /></li>
 				<li class="title"><h4>Alex Pi&ntilde;a <span>Hairdresser</span></h4></li>
 				<li class="bio">
-					<p>I grew up in salons with my hairdresser mother &mdash; to me, hair is just home! I love creating looks that appear effortless and wear easily, looks that are really tailored to you. A graduate of Vidal Sassoon Academy, I was lucky enough to be trained by and rub elbows with some of this industry's greatest heavy-hitters who really laid down the foundation for building strong technical skills. I love natural hair textures, and my experience apprenticing in precision cutting is informed by this. Every moment is an opportunity to grow and learn, especially in such a rapidly changing industry. I strive to begin each day with enthusiasm, bringing creativity and passion to my craft.</p>
+					<p>I grew up in salons with my hairdresser mother &mdash; to me, hair is just home! I love creating looks that appear effortless and wear easily; looks that are not just tailored to you, but to your lifestyle. A graduate of Vidal Sassoon Academy in 2007, I was lucky enough to be trained by and rub elbows with some of this industry's greatest heavy-hitters who really laid down the foundation for building strong technical skills. I love natural hair textures, and my experience apprenticing in precision cutting is informed by this. Every moment is an opportunity to grow and learn, especially in such a rapidly changing industry. I strive to begin each day with enthusiasm, bringing creativity and passion to my craft.</p>
 
-					<p>Outside of the salon I enjoy cooking, reading quirky novels, gawking at old Hollywood film sirens, watching Seinfeld (while I mouth the lines along in concentrated silence), and running into clients unexpectedly and seeing that their hair still looks amazing.</p>
+					<p>Outside of the salon I enjoy cooking vegan, reading quirky novels, gawking at old Hollywood film sirens, watching Seinfeld (while I mouth the lines along in concentrated silence), and running into clients unexpectedly and seeing that their hair still looks amazing.</p>
 					<blockquote>
 						<p>There is no exquisite beauty&hellip; without some strangeness in the proportion.</p>
 						<cite>&ndash; Edgar Allen Poe</cite>

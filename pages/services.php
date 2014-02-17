@@ -41,6 +41,10 @@
 						<span class="service">Up-do</span>
 						<span class="price">$70+</span>
 					</li>
+					<li>
+						<span class="service">Extensions</span>
+						<span class="price consultation">Upon consultation</span>
+					</li>
 				</ul>
 			</article>
 			<article>
@@ -118,6 +122,10 @@
 				<ul class="list cf">
 					<li>
 						<span class="service">Weddings</span>
+						<span class="price consultation">Upon consultation</span>
+					</li>
+					<li>
+						<span class="service">Make-up</span>
 						<span class="price consultation">Upon consultation</span>
 					</li>
 				</ul>
