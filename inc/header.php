@@ -28,7 +28,7 @@
 
 <body class="page-<?=$page?>">
 	<div id="alert">
-		<p>Thank you for visiting Soncy! If you are here because of our <strong>LivingSocial promotion</strong>, please <strong>call 562-431-8000</strong>. For blow-outs or haircuts, book with Alex.</p>
+		<p>Thank you for visiting Soncy! If you are here because of our <strong>LivingSocial promotion</strong>, please <strong>call 562-431-8000</strong>.</p>
 	</div>
 	<header>
 		<div class="wrap cf">
