@@ -6,7 +6,6 @@
 			<div class="column">
 				<h2>Make an appointment</h2>
 				<a href="https://es.salontranscripts.com/4d503ca300015d0e03f3a8c0/" class="ir be-booked"><span>Be</span> Booked</a>
-				<p>Living Social Guests, <span>call 562-431-8000</span>.</p>
 			</div>
 			<div class="column">
 				<h2>Let's talk</h2>
