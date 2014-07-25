@@ -1,0 +1,210 @@
+/* Smartphones (portrait and landscape) ----------- */
+/* iPhone 4 ----------- */
+@media (max-width : 480px) {
+	* {
+		padding: 0;
+		margin: 0;
+		width: auto;
+	}
+
+	header .wrap,
+	#bottom .wrap,
+	footer .wrap {
+		padding: 0 50px;
+		margin: 0;
+		width: auto;
+	}
+
+	header .wrap {
+		padding: 50px 50px 100px;
+	}
+
+	header nav,
+	div#main,
+	div#alert,
+	footer .credits {
+		display: none;
+	}
+
+	header .wrap,
+	div#bottom {
+		background: none;
+	}
+
+	header .wrap,
+	div#bottom,
+	footer {
+		-webkit-box-shadow: none;
+		box-shadow: none;
+	}
+
+	header #logo {
+		float: none;
+
+		width: 824px;
+		height: 276px;
+		background: url(../images/mobile.logo.png)
+	}
+
+	#bottom .wrap {
+		padding: 0;
+	}
+
+	#bottom .column {
+		color: #444;
+		float: none;
+		width: auto;
+		height: auto !important;
+		margin: 0;
+		padding: 200px 50px 0;
+		background: none;
+	}
+
+	#bottom .column:first-child {
+		padding: 0 50px 0;
+	}
+
+	#bottom .column:last-child {
+		color: #c5c5c5;
+		background: #464545 url(../images/bg.bottom.jpg);
+		padding-top: 75px;
+		margin-top: 200px;
+
+		-webkit-box-shadow: 0 0 5px rgba(0,0,0,.35);
+		-moz-box-shadow: 0 0 5px rgba(0,0,0,.35);
+		box-shadow: 0 0 5px rgba(0,0,0,.35);
+
+		position: relative;
+		z-index: 1;
+	}
+
+	#bottom h2 {
+		color: #8F6D44;
+		font-size: 50px;
+	}
+
+	#bottom .column:last-child h2 {
+		color: #e7e7e7;
+	}
+
+	#bottom p {
+		font-size: 33px;
+		line-height: 1.8;
+	}
+
+	#bottom .be-booked {
+		margin: 60px 0 0;
+		width: 527px;
+		height: 119px;
+		background-image: url(../images/mobile.btn.be-booked.png);
+		padding-left: 75px;
+
+		font-size: 68px;
+		line-height: 135px;
+	}
+
+	#bottom .be-booked span {
+		font-size: 100px;
+		padding-right: 13px;
+	}
+
+	#bottom ul {
+		height: 175px;
+		padding-top: 25px;
+	}
+
+	#bottom li {
+		font-size: 33px;
+		float: left;
+		width: 33%;
+		text-align:center;
+	}
+
+	#bottom li a,
+	#bottom li a:visited {
+		display:block;
+		color: #c5c5c5;
+		margin: 0 auto;
+		padding: 0;
+		text-indent: -999em;
+		overflow:hidden;
+	}
+
+	#bottom li.facebook a {
+		background: url(../images/mobile.btn.facebook.png) no-repeat center top;
+		height: 56px;
+		margin: 3px auto 2px;
+	}
+
+	#bottom li.twitter a {
+		background: url(../images/mobile.btn.twitter.png) no-repeat center top;
+		height: 61px;
+	}
+
+	#bottom li.yelp a {
+		background: url(../images/mobile.btn.yelp.png) no-repeat center top;
+		height: 59px;
+		margin: 1px auto;
+	}
+
+	#bottom li.facebook a:hover,
+	#bottom li.twitter a:hover,
+	#bottom li.yelp a:hover {
+		background-position: center bottom;
+	}
+
+	#bottom li:after {
+		display:block;
+		font-size: 20px;
+		padding-top: 0.8em;
+		text-transform: uppercase;
+	}
+
+	#bottom li.facebook:after {
+		content: "Facebook";
+	}
+
+	#bottom li.twitter:after {
+		content: "Twitter";
+	}
+
+	#bottom li.yelp:after {
+		content: "Yelp";
+	}
+
+	#bottom address {
+		font-size: 33px;
+		line-height: 1.6;
+	}
+
+	#bottom address a {
+		display: block;
+		margin: 60px 0 0;
+		width: 527px;
+		height: 119px;
+		background-image: url(../images/mobile.btn.be-booked.png);
+		background-repeat: no-repeat;
+		padding-left: 75px;
+
+		font-size: 51px;
+		line-height: 119px;
+		text-decoration: none;
+	}
+
+	footer {
+		text-align: center;
+		border: none;
+
+		position: relative;
+		z-index: 2;
+	}
+
+	footer p {
+		font-size: 33px;
+		line-height: 4.6;
+	}
+
+	footer p a.full-site {
+		display: inline;
+	}
+}
