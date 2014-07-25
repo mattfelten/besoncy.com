@@ -1,7 +1,7 @@
 jQuery( function($) {
-	if( $('#slideshow li').length > 1 ) {		
-		$.getScript('lib/js/libs/jquery.cycle.lite.js', function(){
-		
+	if( $('#slideshow li').length > 1 ) {
+		$.getScript('/assets/js/vendor/jquery.cycle.lite.js', function(){
+
 			$.fn.cycle.transitions.scrollHorz = function($cont, $slides, opts) {
 				$slides.not(':eq(0)').css('left',-9999);
 				$cont.css('overflow','hidden');
@@ -15,8 +15,8 @@ jQuery( function($) {
 				opts.cssBefore.top = 0;
 				opts.animIn.left = 0;
 				opts.animOut.top = 0;
-			};			
-		
+			};
+
 			$prev = $('<a href="#" class="nc ir prev">Previous</a>').appendTo( $('#slideshow') );
 			$next = $('<a href="#" class="nc ir next">Next</a>').appendTo( $('#slideshow') );
 			$('#slideshow ul').cycle({
@@ -26,15 +26,15 @@ jQuery( function($) {
 				timeout: 0,
 				speed: 300
 			});
-			
+
 		});
 	}
-	
+
 	if( $('a.fancybox').children().length > 1 ) {
-		$.getScript('/lib/js/libs/jquery.easing.pack.js');
-		$.getScript('/lib/js/libs/jquery.fancybox.pack.js', function() {
-			$('head').append('<link rel="stylesheet" type="text/css" href="/lib/css/jquery.fancybox.css" />');
-						
+		$.getScript('/assets/js/vendor/jquery.easing.pack.js');
+		$.getScript('/assets/js/vendor/jquery.fancybox.pack.js', function() {
+			$('head').append('<link rel="stylesheet" type="text/css" href="/assets/css/jquery.fancybox.css" />');
+
 			$('a.fancybox').fancybox({
 				padding:0,
 				transitionIn:'elastic',
@@ -42,9 +42,9 @@ jQuery( function($) {
 			});
 		});
 	}
-	
-	if( !$.support.placeholder && $('input[placeholder]').length > 0 ) {;	
-		$.getScript('/lib/js/libs/jquery.placeholder.js', function(){
+
+	if( !$.support.placeholder && $('input[placeholder]').length > 0 ) {;
+		$.getScript('/assets/js/vendor/jquery.placeholder.js', function(){
 			$('input[placeholder],textarea[placeholder]').placeholder();
 		});
 	}else {
@@ -74,9 +74,9 @@ $.fn.equalHeights = function(minHeight, maxHeight) {
 }
 
 window.log = function(){
-  log.history = log.history || [];  
+  log.history = log.history || [];
   log.history.push(arguments);
-  arguments.callee = arguments.callee.caller;  
+  arguments.callee = arguments.callee.caller;
   if(this.console) console.log( Array.prototype.slice.call(arguments) );
 };
 (function(b){function c(){}for(var d="assert,count,debug,dir,dirxml,error,exception,group,groupCollapsed,groupEnd,info,log,markTimeline,profile,profileEnd,time,timeEnd,trace,warn".split(","),a;a=d.pop();)b[a]=b[a]||c})(window.console=window.console||{});

@@ -18,7 +18,7 @@ endif;
 $_SESSION['lastSubmit'] = time();
 $_SESSION['submitsLastHour'][date('d-m-Y-H')]++;
 
-require "lib/php/class.phpmailer.php";
+require "assets/php/class.phpmailer.php";
 
 if( ini_get('magic_quotes_gpc') ) :
     // If magic quotes are enabled, strip them

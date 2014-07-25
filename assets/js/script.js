@@ -2,17 +2,17 @@ jQuery( function($) {
 	$('a.nc').live('click', function() {
 		return false;
 	});
-	
+
 	$('ul.team li.bio').hide().first().show();
 	$('<a href="#" class="btn nc"><span>Read Bio</span></a>').appendTo( $('ul.team') ).wrap('<li class="button" />').click( function() {
-		
+
 			$('ul.team li.bio:visible').slideUp().siblings('li.button').slideDown();
 			$(this).parent().slideUp().siblings('li.bio').slideDown();
-		
+
 	});
-	
+
 	$('div#bottom div.column').equalHeights();
-	
+
 	$('#contact-form input[name=name]').bind('keypress change blur', function() {
 		if( $.trim( $(this).val() ).length < 3 ) {
 			$(this).addClass('invalid');
@@ -20,7 +20,7 @@ jQuery( function($) {
 			$(this).removeClass('invalid');
 		}
 	});
-	
+
 	$('#contact-form input[name=email]').bind('keypress change blur', function() {
 		if( $.trim( $(this).val() ).length < 5 || $(this).val().indexOf("@") < 0 || $(this).val().indexOf(".") < 0 ) {
 			$(this).addClass('invalid');
@@ -28,7 +28,7 @@ jQuery( function($) {
 			$(this).removeClass('invalid');
 		}
 	});
-	
+
 	$('#contact-form textarea').bind('keypress change blur', function() {
 		if($.trim( $(this).val() ).length < 5 ) {
 			$(this).addClass('invalid');
@@ -36,7 +36,7 @@ jQuery( function($) {
 			$(this).removeClass('invalid');
 		}
 	});
-	
+
     $('#contact-form').bind('new-submit', function(){
     	var form = $('#contact-form');
         var button = form.find('input.submit');
@@ -46,7 +46,7 @@ jQuery( function($) {
 
         // We use the working class not only for styling the submit button,
         // but also as kind of a "lock" to prevent multiple submissions.
-        
+
         if( button.hasClass('working') ) {
         	return false;
         }
@@ -56,30 +56,30 @@ jQuery( function($) {
         }else {
         	textarea.removeClass('invalid');
         }
-        
+
         if( $.trim( name.val() ).length < 3 ) {
         	name.addClass('invalid');
         }else {
         	name.removeClass('invalid');
         }
-        
+
         if( $.trim( email.val() ).length < 5 || email.val().indexOf("@") < 0 || email.val().indexOf(".") < 0 ) {
         	email.addClass('invalid');
         }else {
         	email.removeClass('invalid');
         }
-        
+
         if( $(name, email, textarea).hasClass('invalid') ) {
         	return false;
         }
-        
+
         // Locking the form and changing the button style:
-        button.addClass('working').after( $('<img src="/lib/images/load.gif" class="load" />') );
+        button.addClass('working').after( $('<img src="/assets//images/load.gif" class="load" />') );
 
         $.ajax({
             url : form.attr('action'),
             type : 'post',
-            data : { 
+            data : {
             	message : $.trim( textarea.val() ),
             	name : $.trim( name.val() ),
             	email:$.trim( email.val() )
@@ -102,35 +102,35 @@ jQuery( function($) {
 
         return false;
     });
-    
+
     $('nav ul ul').each( function() {
     	$(this).css('marginLeft', -$(this).outerWidth()/2 - 15);
     });
-    
+
     $('div.gallery-thumbs').thumbSlider().find('li').click( function() {
     	if( !$(this).hasClass('active') ) {
     		$(this).addClass('active').siblings('.active').removeClass('active');
     		$('div.gallery-main li').eq( $(this).index() ).addClass('active').siblings('.active').removeClass('active');
     	}
     });
-    
+
     $('div.gallery-wall li span').each( function() {
     	$(this).css({
     		marginTop: -($(this).height()/2),
     		marginLeft: -($(this).width()/2)
     	});
     });
-    
+
     $('div.gallery-wall li > img').load( function() {
     	$(this).hide().fadeIn();
     });
-    
+
     if ($.browser.msie && $.browser.version.substr(0,1) <= 7) {
 	    $("div.gallery-wall li").hover( function() {
 			$(this).css('z-index', 10000).siblings().css('z-index', 1);
 		});
 	}
-    
+
     if( $('html').hasClass('no-csstransitions') ) {
     	$('div.gallery-wall li').hover( function() {
     		$('span', this).fadeIn('fast');
@@ -153,10 +153,10 @@ jQuery.fn.thumbSlider = function(options) {
 		$wrap = $content.parent();
 		margin = 15;
 		options = options || {};
-		
+
 		$content.css('position', 'absolute');
 		$wrap.css('position','relative');
-		
+
 		$('a.next', this).click( function() {
 			if( $content.position().top - $wrap.height() >= -( $content.height() - $wrap.height() ) ) {
 				$content.animate({
@@ -166,10 +166,10 @@ jQuery.fn.thumbSlider = function(options) {
 				$content.animate({
 					top: -( $content.height() - $wrap.height() ) - 3
 				});
-				
+
 			}
 		});
-		
+
 		$('a.prev', this).click( function() {
 			if( $content.position().top + $wrap.height() <= -margin ) {
 				$content.animate({
