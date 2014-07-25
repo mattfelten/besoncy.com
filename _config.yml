@@ -1,0 +1,8 @@
+# Site Description
+name: Soncy
+
+# Jekyll Config
+markdown: redcarpet
+
+# Server Config
+host: besoncy.dev

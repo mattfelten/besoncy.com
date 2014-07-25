@@ -1,10 +1,6 @@
 /* Smartphones (portrait and landscape) ----------- */
 /* iPhone 4 ----------- */
-@media only screen
-and (min-device-width : 320px)
-and (max-device-width : 480px),
-only screen and (-webkit-min-device-pixel-ratio : 1.5),
-only screen and (min-device-pixel-ratio : 1.5) {
+@media (max-width : 480px) {
 	* {
 		padding: 0;
 		margin: 0;
@@ -211,16 +207,4 @@ only screen and (min-device-pixel-ratio : 1.5) {
 	footer p a.full-site {
 		display: inline;
 	}
-}
-
-/* Smartphones (landscape) ----------- */
-@media only screen
-and (min-width : 321px) {
-/* Styles */
-}
-
-/* Smartphones (portrait) ----------- */
-@media only screen
-and (max-width : 320px) {
-/* Styles */
 }
