@@ -400,17 +400,26 @@ nav li:hover ul {
 	background-position: left top;
 }
 
-.coupon {
-	color: #888;
-	background: url(../images/team.rule.1.png) no-repeat center bottom;
-	font-size: 16px;
+.coupon-bar {
+	background: #fafafa;
+	border-top: 1px solid #DBDBDB;
+	color: #4F3254;
+	display: block;
+	padding: .5em;
 	text-align: center;
-	text-transform: uppercase;
-	padding: 40px 0 10px;
+	text-decoration: none;
 }
 
-.coupon .coupon-btn {
-	margin-left: 20px;
+.coupon-bar:hover {
+	color: #F58321;
+}
+
+.coupon-bar img {
+	margin-right: 1em;
+}
+
+.coupon-bar strong {
+	text-decoration: underline;
 }
 
 /* @end */
