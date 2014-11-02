@@ -1,0 +1,160 @@
+#team-intro {
+	padding: 0 100px 40px 0;
+	position: relative;
+	margin-bottom: 40px;
+
+	background: url(../images/team.rule.1.png) no-repeat center bottom;
+}
+
+#team-intro .btn {
+	background: url(../images/btn.team.png);
+	line-height: 34px;
+	width: 238px;
+
+	margin-top: 20px;
+}
+
+#team-intro .gallery {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+#team-intro .gallery li {
+	width: 50px;
+	height: 50px;
+	padding: 5px;
+	position: relative;
+	background: url(../images/team.gallery.png) no-repeat;
+
+	margin-top: 10px;
+
+	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,.3);
+	-moz-box-shadow: 0 1px 3px rgba(0,0,0,.3);
+	box-shadow: 0 1px 3px rgba(0,0,0,.3);
+}
+
+#team-intro .gallery li:first-child {
+	margin-top: 0;
+}
+
+#team-intro .gallery li img {
+	display: block;
+	position: relative;
+	z-index: 1;
+
+	-webkit-transition: opacity .2s linear;
+	-moz-transition: opacity .2s linear;
+	transition: opacity .2s linear;
+}
+
+#team-intro .gallery li span {
+	width: 35px;
+	height: 35px;
+	background: url(../images/team.gallery.overlay.png);
+
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin: -17px 0 0 -17px;
+	z-index: 2;
+
+	display: none;
+	opacity: 0;
+
+	-webkit-transition: opacity .2s linear;
+	-moz-transition: opacity .2s linear;
+	transition: opacity .2s linear;
+}
+
+#team-intro .gallery li a:hover img {
+	opacity: .5;
+}
+
+#team-intro .gallery li a:hover span {
+	opacity: 1;
+	display: block;
+}
+
+#team-bios .team {
+	padding-left: 140px;
+	position: relative;
+
+	padding-top: 20px;
+	margin-top: 30px;
+	background: url(../images/team.rule.2.png) no-repeat right top;
+}
+
+#team-bios .team:first-child {
+	padding-top: 0;
+	margin-top: 0;
+	background: none;
+}
+
+#team-bios .image {
+	width: 110px;
+	height: 110px;
+	padding: 5px;
+	background: url(../images/team.image.bg.jpg);
+
+	position: absolute;
+	top: 20px;
+	left: 0;
+
+	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,.3);
+	-moz-box-shadow: 0 1px 3px rgba(0,0,0,.3);
+	box-shadow: 0 1px 3px rgba(0,0,0,.3);
+}
+
+#team-bios .team:first-child .image {
+	top: 0;
+}
+
+#team-bios .image img {
+	display: block;
+}
+
+#team-bios .title h4 {
+	font-weight: 300;
+	font-size: 19px;
+	margin: 0 0 15px;
+}
+
+#team-bios .title h4 span {
+	display: block;
+	font-size: 12px;
+	font-weight: normal;
+	text-transform: uppercase;
+}
+
+#team-bios .team:first-child li.button {
+	display: none;
+}
+
+#team-bios li.button {
+	margin-top: 35px;
+}
+
+#team-bios a.btn {
+	display: inline-block;
+	line-height: 26px;
+	padding: 0 10px;
+
+	background-color: #624863;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#624863), to(#4d2f4e));
+	background-image: -webkit-linear-gradient(top, #624863, #4d2f4e);
+	background-image: -moz-linear-gradient(top, #624863, #4d2f4e);
+	background-image: -o-linear-gradient(top, #624863, #4d2f4e);
+	background-image: -ms-linear-gradient(top, #624863, #4d2f4e);
+	background-image: linear-gradient(top, #624863, #4d2f4e);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#624863', EndColorStr='#4d2f4e');
+
+	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,.3);
+	-moz-box-shadow: 0 1px 3px rgba(0,0,0,.3);
+	box-shadow: 0 1px 3px rgba(0,0,0,.3);
+}
+
+#team-bios a.btn span {
+	padding-right: 24px;
+	background: url(../images/btn.team.arrow.png) no-repeat right center;
+}

@@ -3,7 +3,14 @@
 
 	{% if page.url == "/index.html" %}
 	<a href="/promotions/" class="coupon-bar">
-		<img src="/assets/images/icon.discount.svg" width="50" height="50">First time at Soncy? Take a look at our <strong>new client deals</strong>
+		<span class="coupon-bar-wrap">
+			<span class="coupon-bar-column">
+				<img src="/assets/images/icon.discount.svg" width="50" height="50">
+			</span>
+			<span class="coupon-bar-column">
+				First time at Soncy? Take a look at our <strong>new client deals</strong>
+			</span>
+		</span>
 	</a>
 	{% endif %}
 

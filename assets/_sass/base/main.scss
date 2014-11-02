@@ -1,0 +1,50 @@
+#main {
+
+}
+
+#main .wrap {
+	max-width: 940px;
+	margin: 0 auto;
+	padding: 0 10px 80px;
+}
+
+#main .leftCol {
+	display: none;
+	width: 260px;
+	margin: 0 40px 0 20px;
+}
+
+@media (min-width: 940px) {
+	#main .leftCol {
+		display: block;
+		float: left;
+	}
+}
+
+#main .leftCol .quote {
+	color: #8f6d44;
+	font-size: 20px;
+	font-weight: 200;
+	line-height: 37px;
+	text-transform: lowercase;
+}
+
+#main .leftCol .quote cite {
+	display: block;
+	font-size: 16px;
+	line-height: 30px;
+}
+
+@media (min-width: 940px) {
+	#main .mainCol {
+		float: left;
+		width: 620px;
+	}
+}
+
+.content {
+	margin-top: 20px;
+	padding-left: 50px;
+
+	font-size: 12px;
+}

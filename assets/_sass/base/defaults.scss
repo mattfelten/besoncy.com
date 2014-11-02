@@ -1,0 +1,91 @@
+a, a:active, a:visited {
+	color: #444;
+
+	-webkit-transition: color 0.1s linear;
+	-moz-transition: color 0.1s linear;
+	-o-transition: color 0.1s linear;
+	transition: color 0.1s linear;
+}
+a:hover { color: #8f6d44; }
+
+::-moz-selection{ background: #5f4362; color:#fff; text-shadow: none; }
+::selection { background:#5f4362; color:#fff; text-shadow: none; }
+
+p {
+	margin: 0 0 .75em;
+}
+
+h1 {
+
+}
+
+h2 {
+	color: #8f6d44;
+	line-height: 37px;
+	margin: 0 0 10px;
+	font-weight: normal;
+}
+
+h3 {
+	color: #8f6d44;
+	font-size: 12px;
+	font-weight: normal;
+	text-transform: uppercase;
+	margin: 1.5em 0 0;
+}
+
+h3 span {
+	color: #514846;
+	font-size: 36px;
+	font-family: 'WildSongThin';
+	text-transform: lowercase;
+	padding: 0 5px;
+}
+
+h4 {
+	color: #8f6d44;
+	margin-bottom: 0;
+}
+
+blockquote {
+	background: url(../images/blockquote.png) no-repeat left top;
+	margin: 10px 0 0;
+	padding: .5em 40px 1em;
+}
+
+blockquote p {
+	color: #8f6d44;
+	font-size: 13px;
+	font-weight: 300;
+	margin: 0;
+}
+
+blockquote cite {
+	color: #9f9f9f;
+	font-size: 10px;
+	text-align: right;
+	text-transform: uppercase;
+}
+
+small {
+	font-size: 11px;
+}
+
+u {
+	text-decoration: none;
+	border-bottom: 1px dotted #8F6D44;
+}
+
+html {
+	background: #262221;
+}
+
+body {
+	background: #ececec url(../images/bg.jpg);
+	color: #514846;
+	font-size: 13px;
+	font-family: 'HelveticaNeueExtended', Helvetica, Arial, sans-serif;
+	line-height: 1.4;
+	overflow: hidden;
+}
+

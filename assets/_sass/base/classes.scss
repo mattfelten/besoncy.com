@@ -1,0 +1,74 @@
+.rule {
+	height: 32px;
+	background: url(../images/team.rule.1.png) no-repeat center center;
+	clear: both;
+}
+
+.btn,
+.btn:visited {
+	color: #d9d9d9;
+	color: rgba(217, 217, 217,.9);
+	display: inline-block;
+	font-size: 13px;
+	line-height: 35px;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	text-shadow: 0 -1px 0 rgba(0,0,0,.5);
+}
+
+.oldie .btn,
+.oldie .btn:visited {
+	color: #d9d9d9;
+}
+
+.btn:hover,
+.oldie .btn:hover {
+	color: #fff;
+}
+
+.coupon-btn {
+	width: 238px;
+	text-align: center;
+	background: url(../images/btn.team.png) no-repeat;
+}
+
+span.br {
+	display: block;
+}
+
+.alignright {
+	float: right;
+}
+
+.alignleft {
+	float: left;
+}
+
+.image.alignright,
+.image.alignleft {
+	padding: 5px;
+	background: url(../images/slideshow.bg.jpg);
+
+	margin: 0 0 15px 20px;
+
+	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,.3);
+	-moz-box-shadow: 0 1px 3px rgba(0,0,0,.3);
+	box-shadow: 0 1px 3px rgba(0,0,0,.3);
+}
+
+.image.alignleft {
+	margin: 0 20px 15px 0;
+}
+
+img.alignright {
+	margin: 0 0 2px 10px;
+	display: inline;
+	border: 3px solid #376092;
+}
+
+img.alignleft {
+	margin: 0 10px 2px 0;
+	display: inline;
+	border: 3px solid #376092;
+}

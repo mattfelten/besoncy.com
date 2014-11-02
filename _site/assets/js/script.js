@@ -11,8 +11,6 @@ jQuery( function($) {
 
 	});
 
-	$('div#bottom div.column').equalHeights();
-
 	$('#contact-form input[name=name]').bind('keypress change blur', function() {
 		if( $.trim( $(this).val() ).length < 3 ) {
 			$(this).addClass('invalid');

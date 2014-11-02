@@ -1,0 +1,160 @@
+p.intro {
+	margin-bottom: 30px;
+}
+
+p.cta {
+	color: #8f6d44;
+	font-size: 16px;
+	margin-top: 22px;
+	opacity: .8;
+}
+
+@media (min-width: 940px) {
+	#services .column {
+		float: left;
+		width: 280px;
+
+		&:first-child {
+			padding-right: 60px;
+			background: url(../images/rule.services.png) no-repeat 300px center;
+		}
+	}
+}
+
+#services article {
+	margin-bottom: 20px;
+}
+
+.ie7 #services article {
+	margin-top: 60px;
+	margin-bottom: 0;
+}
+
+.ie7 #services article:first-child {
+	margin: 0;
+}
+
+#services article h2 {
+	font-size: 36px;
+	font-family: 'WildSongThin';
+	line-height: 90px;
+	text-transform: lowercase;
+	margin: 0 0 -30px;
+
+	float: left;
+}
+
+.ie9 #services article h2,
+.ie8 #services article h2,
+.ie7 #services article h2 {
+	position: static;
+}
+
+#services article h2 em {
+	display: inline-block;
+	width: 48px;
+	height: 46px;
+	text-indent: -9999em;
+	overflow: hidden;
+	background: url(../images/services.be.png) no-repeat left top;
+	margin-right: -17px;
+}
+
+.ie7 #services article h2 em {
+	display: block;
+	float: left;
+
+	margin-top: -23px;
+	margin-right: -10px;
+}
+
+#services article h2 span {
+	color: #514846;
+	font-size: 24px;
+	line-height: 28px;
+	font-family: 'SorayaRegular';
+}
+
+#services p.label {
+	font-size: 11px;
+	text-transform: lowercase;
+	padding-left: 190px;
+	padding-top: 7px;
+	margin: 0;
+	text-align: right;
+
+	position: relative;
+	top: 30px;
+
+	&:after {
+		content: '';
+		display: inline-block;
+		width: 30px;
+	}
+}
+
+@media (min-width: 940px) {
+	#services p.label {
+		text-align: left;
+
+		&:after {
+			content: none;
+		}
+	}
+}
+
+.ie7 #services p.label {
+	position: static;
+}
+
+#services ul {
+	clear: both;
+	margin-top: 0;
+}
+
+#services li {
+	display: table;
+	width: 100%;
+}
+
+#services li span {
+	display: table-cell;
+	font-size: 13px;
+	line-height: 28px;
+	vertical-align: top;
+}
+
+#services .service {
+	padding-right: 20px;
+}
+
+#services .price {
+	margin: 0;
+	width: 90px
+}
+
+#services .consultation {
+	font-size: 9px;
+}
+
+#services .subtext {
+	margin-bottom: .5em;
+}
+
+#services .subtext .service {
+	font-size: .75em;
+	line-height: 1.4;
+	margin-bottom: .75em;
+}
+
+#services .fineprint {
+	clear: both;
+	padding-top: 12px;
+	background: url(../images/team.rule.2.png) no-repeat left top;
+	margin-top: 12px;
+}
+
+#services p.description {
+	font-size: 9px;
+	margin: 0;
+}

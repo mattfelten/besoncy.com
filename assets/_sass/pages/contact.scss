@@ -1,0 +1,183 @@
+
+@media (min-width: 940px) {
+	#main #contact.mainCol {
+		width: 380px;
+		padding-right: 240px;
+		position: relative;
+	}
+}
+
+#contact p {
+	margin-bottom: 20px;
+}
+
+#contact #map {
+	width: 201px;
+	height: 201px;
+	background: url(../images/map.jpg);
+	margin: 0 auto 20px;
+
+	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,.3);
+	-moz-box-shadow: 0 1px 3px rgba(0,0,0,.3);
+	box-shadow: 0 1px 3px rgba(0,0,0,.3);
+}
+
+@media (min-width: 940px) {
+	#contact #map {
+		position: absolute;
+		top: 0;
+		right: 0;
+	}
+}
+
+#contact address {
+	font-size: 14px;
+	font-style: normal;
+	padding-left: 20px;
+	position: relative;
+	width: 275px;
+	margin: 5px auto 0;
+}
+
+#contact address span {
+	color: #8f6d44;
+	font-size: 11px;
+	font-family: 'SorayaRegular';
+	line-height: 21px;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+@media (min-width: 940px) {
+	#contact address {
+		width: auto;
+	}
+}
+
+#contact form {
+	margin: 0 auto;
+	width: 305px;
+}
+
+#contact form h3 {
+	margin-top: 50px;
+}
+
+
+#contact form div {
+	margin-bottom: 20px;
+}
+
+#contact input.text,
+#contact textarea {
+	border: 1px solid #c8c8c8;
+	border: 1px solid rgba(0,0,0,.15);
+	outline: none;
+	margin: 1px 0;
+
+	color: #514846;
+	font-size: 12px;
+	font-family: 'HelveticaNeueExtended', Helvetica, Arial, sans-serif;
+
+	background-color: #f2f2f2;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#f2f2f2), to(#e8e8e8));
+	background-image: -webkit-linear-gradient(top, #f2f2f2, #e8e8e8);
+	background-image: -moz-linear-gradient(top, #f2f2f2, #e8e8e8);
+	background-image: -o-linear-gradient(top, #f2f2f2, #e8e8e8);
+	background-image: -ms-linear-gradient(top, #f2f2f2, #e8e8e8);
+	background-image: linear-gradient(top, #f2f2f2, #e8e8e8);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#f2f2f2', EndColorStr='#e8e8e8');
+
+	-webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,.09);
+	-moz-box-shadow: inset 0 1px 2px rgba(0,0,0,.09);
+	box-shadow: inset 0 1px 2px rgba(0,0,0,.09);
+
+	width: 300px;
+	height: 25px;
+	padding: 0 9px;
+
+	-webkit-transition: all .2s linear;
+	-moz-transition: all .2s linear;
+	transition: all .2s linear;
+}
+
+.ie7 #contact input.text {
+	line-height: 25px;
+}
+
+#contact textarea {
+	padding: 5px 9px;
+	height: auto;
+}
+
+#contact input.text:focus,
+#contact input.invalid:focus,
+#contact textarea:focus,
+#contact textarea.invalid:focus {
+	border: 2px solid #88748a;
+	border: 2px solid rgba(95, 67, 98,.7);
+	margin: 0;
+	padding: 0 8px;
+
+	background-color: #fafafa;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#fafafa), to(#ececec));
+	background-image: -webkit-linear-gradient(top, #fafafa, #ececec);
+	background-image: -moz-linear-gradient(top, #fafafa, #ececec);
+	background-image: -o-linear-gradient(top, #fafafa, #ececec);
+	background-image: -ms-linear-gradient(top, #fafafa, #ececec);
+	background-image: linear-gradient(top, #fafafa, #ececec);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#fafafa', EndColorStr='#ececec');
+
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+
+	-webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,.16), 0 1px 4px rgba(0,0,0,.53);
+	-moz-box-shadow: inset 0 1px 2px rgba(0,0,0,.16), 0 1px 4px rgba(0,0,0,.53);
+	box-shadow: inset 0 1px 2px rgba(0,0,0,.16), 0 1px 4px rgba(0,0,0,.53);
+}
+
+#contact textarea:focus,
+#contact textarea.invalid:focus {
+	padding: 5px 8px;
+}
+
+#contact input.invalid,
+#contact textarea.invalid {
+	border: 1px solid #e89d9c;
+	margin: 1px 0;
+	padding: 0 9px;
+}
+
+#contact textarea.invalid {
+	padding: 5px 9px;
+}
+
+#contact input.submit {
+	width: 116px;
+	height: 36px;
+	line-height: 32px;
+	cursor: pointer;
+
+	background: url(../images/btn.contact.png);
+	border: none;
+
+	-webkit-transition: color 0.1s linear;
+	-moz-transition: color 0.1s linear;
+	-o-transition: color 0.1s linear;
+	transition: color 0.1s linear;
+}
+
+#contact input.working {
+	float: left;
+	margin-right: 10px;
+}
+
+#contact div.response {
+	width: 620px;
+}
+
+#contact img.load {
+	margin-top: 7px;
+}
