@@ -3,6 +3,10 @@ jQuery( function($) {
 		return false;
 	});
 
+	$('.has-dropdown > a').live('click', function() {
+		$(this).parent().toggleClass('is-active');
+	});
+
 	$('ul.team li.bio').hide().first().show();
 	$('<a href="#" class="btn nc"><span>Read Bio</span></a>').appendTo( $('ul.team') ).wrap('<li class="button" />').click( function() {
 

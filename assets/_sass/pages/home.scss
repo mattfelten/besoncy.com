@@ -82,36 +82,3 @@
 	width: 186px;
 	background-position: left top;
 }
-
-.coupon-bar {
-	background: #fafafa;
-	border-top: 1px solid #DBDBDB;
-	color: #4F3254;
-	display: block;
-	padding: .5em;
-	text-align: center;
-	text-decoration: none;
-
-	.coupon-bar-wrap {
-		display: table;
-		margin: 0 auto;
-	}
-
-	.coupon-bar-column {
-		display: table-cell;
-		text-align: left;
-		vertical-align: middle;
-	}
-
-	&:hover {
-		color: #F58321;
-	}
-
-	img {
-		margin-right: 1em;
-	}
-
-	strong {
-		text-decoration: underline;
-	}
-}
