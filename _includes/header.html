@@ -14,7 +14,7 @@
 	<meta name="keywords" content="seal beach hair salon, hair salon seal beach, hair salon in seal beach ca, seal beach beauty salon" >
 	<meta name="description" content="Soncy Hair Salon Is Your Premiere Seal Beach Hair Salon Specializing In The Latest Hairstyles And Trends. Come In And Experience The Best Hair Salon In Seal Beach!" >
 
-	<link rel="stylesheet" href="/assets/css/style.css" />
+	<link rel="stylesheet" href="{{base}}/assets/css/style.css" />
 
 	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<link rel="apple-touch-icon" href="/apple-touch-icon-72x72.png" sizes="72x72" />
@@ -25,35 +25,35 @@
 
 <body class="page-{{ page.title | handleize }}">
 	<header class="cf">
-		<a href="/" id="logo" class="ir">Soncy - Be You</a>
+		<a href="{{base}}/" id="logo" class="ir">Soncy - Be You</a>
 
 		<div class="button-area">
 			<a href="https://es.salontranscripts.com/4d503ca300015d0e03f3a8c0/" class="button-area-book">Book Online</a>
-			<a href="/promotions/" class="button-area-promo">New Client Promotions</a>
+			<a href="{{base}}/promotions/" class="button-area-promo">New Client Promotions</a>
 		</div>
 
 		<nav>
 			<ul class="cf">
-				<li><a href="/">Home</a></li>
+				<li><a href="{{base}}/">Home</a></li>
 				<li class="has-dropdown">
 					<a href="#" class="nc{% if page.title == 'Services' or page.title == 'Products' or page.title == 'Looks' %} active{% endif %}">Salon</a>
 					<ul class="list cf">
-						<li><a href="/team/">Our Team</a></li>
-						<li><a href="/careers/">Careers</a></li>
-						<li><a href="/model/">Be A Model</a></li>
-						<li><a href="/faq/">FAQs</a></li>
+						<li><a href="{{base}}/services/">Services</a></li>
+						<li><a href="{{base}}/products/">Products</a></li>
+						<li><a href="{{base}}/looks/">Looks</a></li>
 					</ul>
 				</li>
 				<li class="has-dropdown">
-					<a href="#" class="nc{% if page.title == 'Services' or page.title == 'Products' or page.title == 'Looks' %} active{% endif %}">Servers</a>
+					<a href="#" class="nc{% if page.title == 'Team' or page.title == 'Careers' or page.title == 'Model' or page.title == 'FAQ' %} active{% endif %}">About</a>
 					<ul class="list cf">
-						<li><a href="/services/">Services</a></li>
-						<li><a href="/products/">Products</a></li>
-						<li><a href="/looks/">Looks</a></li>
+						<li><a href="{{base}}/team/">Our Team</a></li>
+						<li><a href="{{base}}/careers/">Careers</a></li>
+						<li><a href="{{base}}/model/">Be A Model</a></li>
+						<li><a href="{{base}}/faq/">FAQs</a></li>
 					</ul>
 				</li>
 				<li>
-					<a href="/contact/"{% if page.title == 'Contact' %} class="active"{% endif %}>Contact</a>
+					<a href="{{base}}/contact/"{% if page.title == 'Contact' %} class="active"{% endif %}>Contact</a>
 				</li>
 			</ul>
 		</nav>
