@@ -1,0 +1,17 @@
+.float-section {
+	margin-bottom: 15px;
+
+	&.float-right {
+		float: right;
+		margin-left: 20px;
+	}
+
+	&.float-left {
+		float: left;
+		margin-right: 20px;
+	}
+
+	&.float-extra-bottom-margin {
+		margin-bottom: 100px;
+	}
+}

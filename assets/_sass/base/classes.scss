@@ -45,22 +45,6 @@ span.br {
 	float: left;
 }
 
-.image.alignright,
-.image.alignleft {
-	padding: 5px;
-	background: url(../images/slideshow.bg.jpg);
-
-	margin: 0 0 15px 20px;
-
-	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,.3);
-	-moz-box-shadow: 0 1px 3px rgba(0,0,0,.3);
-	box-shadow: 0 1px 3px rgba(0,0,0,.3);
-}
-
-.image.alignleft {
-	margin: 0 20px 15px 0;
-}
-
 img.alignright {
 	margin: 0 0 2px 10px;
 	display: inline;
