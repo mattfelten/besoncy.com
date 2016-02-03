@@ -1,0 +1,67 @@
+.product-logo-bar {
+	@include list-unset;
+	margin: 60px auto -20px;
+}
+
+.product-logo-bar-logo {
+	@include image-replace;
+	background-size: contain;
+	background-position: center center;
+	display: inline-block;
+}
+
+.product-logo-bar-rco {
+	background-image: url(../images/logo.rco.png);
+	width: 53px;
+	height: 34px;
+}
+
+.product-logo-bar-oribe {
+	background-image: url(../images/logo.oribe.png);
+	width: 107px;
+	height: 34px;
+}
+
+.product-logo-bar-aquiesse {
+	background-image: url(../images/logo.aquiesse.png);
+	width: 185px;
+	height: 30px;
+}
+
+.product-logo-bar-mason-pearson {
+	background-image: url(../images/logo.mason-pearson.png);
+	width: 193px;
+	height: 34px;
+}
+
+@media (max-width:700px) {
+	.product-logo-bar li {
+		display: inline-block;
+		text-align: center;
+		width: 49%;
+	}
+
+	.product-logo-bar li:first-child,
+	.product-logo-bar li:nth-child(2) {
+		margin-bottom: 30px;
+	}
+}
+
+@media (min-width:700px) {
+	.product-logo-bar {
+		display: table;
+	}
+
+	.product-logo-bar li {
+		display: table-cell;
+		padding-left: 60px;
+
+		&:first-child {
+			padding-left: 0;
+		}
+	}
+
+	.product-logo-bar-logo {
+		background-position: right center;
+	}
+}

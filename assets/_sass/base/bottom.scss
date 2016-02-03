@@ -25,7 +25,7 @@
 }
 
 #bottom .column {
-	margin: 40px 0;
+	padding: 40px 0;
 	text-align: center;
 }
 
@@ -35,7 +35,7 @@
 		width: 260px;
 		display: table-cell;
 		margin: 0 0 0 29px;
-		padding-left: 31px;
+		padding: 0 0 0 31px;
 		text-align: left;
 
 		&:first-child {
