@@ -150,6 +150,10 @@ nav li li a:hover {
 	color: #fff !important;
 }
 
+nav ul {
+	@include list-unset;
+}
+
 nav ul ul.list {
 	position: absolute;
 	bottom: 0;
@@ -168,6 +172,7 @@ nav ul ul.list {
 }
 
 nav ul ul:before {
+	content: '';
 	border: 5px solid #604461;
 	border-color: transparent transparent #604461;
 	position: absolute;

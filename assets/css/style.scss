@@ -2,23 +2,36 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
+// Load Fonts First
 @import "base/fonts";
 
-@import "vendor/boilerplate";
-@import "vendor/jquery.fancybox";
+// Mixins
+@import "mixins/clearfix";
+@import "mixins/image-replace";
+@import "mixins/list-unset";
 
-@import "base/defaults";
-@import "base/header";
-@import "base/main";
-@import "base/bottom";
-@import "base/footer";
+// Normalize (Always at top)
+@import "vendor/normalize";
 
+// Components
 @import "components/alert";
 @import "components/button";
 @import "components/button-purple";
 @import "components/float-section";
 @import "components/image-wrapper";
 
+// Vendor files
+@import "vendor/jquery.fancybox";
+
+// Base
+@import "base/defaults";
+@import "base/classes";
+@import "base/header";
+@import "base/main";
+@import "base/bottom";
+@import "base/footer";
+
+// Pages
 @import "pages/home";
 @import "pages/team";
 @import "pages/services";
@@ -26,5 +39,3 @@
 @import "pages/products";
 @import "pages/promotions";
 @import "pages/looks";
-
-@import "base/classes";

@@ -1,0 +1,18 @@
+@mixin list-unset {
+	list-style: none;
+	padding-left: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+
+	li:before {
+		content: none;
+	}
+}
+
+%list-unset {
+	@include list-unset;
+}
+
+.list-unset {
+	@extend %list-unset;
+}

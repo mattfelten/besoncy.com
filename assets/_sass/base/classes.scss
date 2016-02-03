@@ -21,3 +21,11 @@ span.br {
 .alignleft {
 	float: left;
 }
+
+.list {
+	@include list-unset;
+}
+
+.clear {
+	clear: both;
+}
