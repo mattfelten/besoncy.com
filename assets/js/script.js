@@ -1,10 +1,11 @@
 jQuery( function($) {
-	$('a.nc').live('click', function() {
+	$('.nc').live('click', function() {
 		return false;
 	});
 
 	$('ul.team li.bio').hide().first().show();
-	$('<a href="#" class="btn nc"><span>Read Bio</span></a>').appendTo( $('ul.team') ).wrap('<li class="button" />').click( function() {
+	$('<button class="button-purple icon-down-arrow">Read Bio</button>').appendTo( $('ul.team') ).wrap('<li class="button" />').click( function(e) {
+			e.preventDefault();
 
 			$('ul.team li.bio:visible').slideUp().siblings('li.button').slideDown();
 			$(this).parent().slideUp().siblings('li.bio').slideDown();

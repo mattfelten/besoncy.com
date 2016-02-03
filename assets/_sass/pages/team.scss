@@ -134,27 +134,3 @@
 #team-bios li.button {
 	margin-top: 35px;
 }
-
-#team-bios a.btn {
-	display: inline-block;
-	line-height: 26px;
-	padding: 0 10px;
-
-	background-color: #624863;
-	background-image: -webkit-gradient(linear, left top, left bottom, from(#624863), to(#4d2f4e));
-	background-image: -webkit-linear-gradient(top, #624863, #4d2f4e);
-	background-image: -moz-linear-gradient(top, #624863, #4d2f4e);
-	background-image: -o-linear-gradient(top, #624863, #4d2f4e);
-	background-image: -ms-linear-gradient(top, #624863, #4d2f4e);
-	background-image: linear-gradient(top, #624863, #4d2f4e);
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#624863', EndColorStr='#4d2f4e');
-
-	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,.3);
-	-moz-box-shadow: 0 1px 3px rgba(0,0,0,.3);
-	box-shadow: 0 1px 3px rgba(0,0,0,.3);
-}
-
-#team-bios a.btn span {
-	padding-right: 24px;
-	background: url(../images/btn.team.arrow.png) no-repeat right center;
-}

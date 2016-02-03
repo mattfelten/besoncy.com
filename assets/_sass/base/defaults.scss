@@ -84,8 +84,12 @@ body {
 	background: #ececec url(../images/bg.jpg);
 	color: #514846;
 	font-size: 13px;
-	font-family: 'HelveticaNeueExtended', Helvetica, Arial, sans-serif;
 	line-height: 1.4;
 	overflow: hidden;
+}
+
+body,
+button {
+	font-family: 'HelveticaNeueExtended', Helvetica, Arial, sans-serif;
 }
 
