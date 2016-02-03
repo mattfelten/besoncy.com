@@ -34,20 +34,30 @@
 	height: 34px;
 }
 
-@media (max-width:700px) {
+.product-logo-bar-ibiza {
+	background-image: url(../images/logo.ibiza.png);
+	width: 81px;
+	height: 34px;
+
+	position: relative;
+	top: -4px;
+}
+
+@media (max-width:824px) {
 	.product-logo-bar li {
 		display: inline-block;
 		text-align: center;
 		width: 49%;
+		margin-top: 30px;
 	}
 
 	.product-logo-bar li:first-child,
 	.product-logo-bar li:nth-child(2) {
-		margin-bottom: 30px;
+		margin-top: 0;
 	}
 }
 
-@media (min-width:700px) {
+@media (min-width:825px) {
 	.product-logo-bar {
 		display: table;
 	}
