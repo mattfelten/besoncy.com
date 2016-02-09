@@ -35,7 +35,7 @@ h3 {
 }
 
 h3 span {
-	color: #514846;
+	color: $purple;
 	font-size: 36px;
 	font-family: 'WildSongThin';
 	text-transform: lowercase;
@@ -82,7 +82,7 @@ html {
 
 body {
 	background: #ececec url(../images/bg.jpg);
-	color: #514846;
+	color: $purple;
 	font-size: 13px;
 	line-height: 1.4;
 }

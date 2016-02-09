@@ -5,6 +5,9 @@
 // Load Fonts First
 @import "base/fonts";
 
+// Variables
+@import "variables/color";
+
 // Mixins
 @import "mixins/clearfix";
 @import "mixins/image-replace";
@@ -31,6 +34,9 @@
 @import "base/main";
 @import "base/bottom";
 @import "base/footer";
+
+// Sections
+@import "sections/featured-products";
 
 // Pages
 @import "pages/home";

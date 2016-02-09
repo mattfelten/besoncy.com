@@ -1,0 +1,48 @@
+.featured-products-section {
+	margin-top: 4em;
+	width: 85%;
+}
+
+.featured-product-label {
+	font-size: .8em;
+	text-transform: uppercase;
+}
+
+.featured-products {
+	@extend %list-unset;
+
+	li {
+		margin-top: 1em;
+	}
+}
+
+.featured-product {
+	@include image-replace;
+	background-position: center center;
+	background-repeat: no-repeat;
+	display: block;
+
+	background-color: #fff;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 1em;
+
+	transition: border .2s, box-shadow .2s;
+
+	&:hover {
+		border-color: $purple;
+		box-shadow: 0 1px 2px rgba(0,0,0,.2);
+	}
+}
+
+.featured-product-rco {
+	background-image: url(../images/logo.rco.png);
+	background-size: 53px 34px;
+	height: 34px;
+}
+
+.featured-product-oribe {
+	background-image: url(../images/logo.oribe.png);
+	background-size: 107px 34px;
+	height: 34px;
+}

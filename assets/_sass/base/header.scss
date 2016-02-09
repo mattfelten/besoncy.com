@@ -65,7 +65,7 @@ nav li:hover {
 
 nav li a,
 nav li a:visited {
-	color: #514846;
+	color: $purple;
 	display: block;
 	font-size: 19px;
 	line-height: 65px;
@@ -77,7 +77,7 @@ nav li a:visited {
 }
 
 nav li a:hover {
-	color: #514846;
+	color: $purple;
 }
 
 nav li a em,
