@@ -6,6 +6,7 @@
 	max-width: 940px;
 	margin: 0 auto;
 	padding: 0 10px 80px;
+	overflow: hidden;
 }
 
 #main .leftCol {
@@ -14,7 +15,7 @@
 	margin: 0 40px 0 20px;
 }
 
-@media (min-width: 940px) {
+@media (min-width: $bp-vertical-to-horizontal) {
 	#main .leftCol {
 		display: block;
 		float: left;
@@ -35,7 +36,7 @@
 	line-height: 30px;
 }
 
-@media (min-width: 940px) {
+@media (min-width: $bp-vertical-to-horizontal) {
 	#main .mainCol {
 		float: left;
 		width: 620px;

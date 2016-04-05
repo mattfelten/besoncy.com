@@ -17,7 +17,7 @@
 	margin: 0 auto;
 }
 
-@media (min-width: 940px) {
+@media (min-width: $bp-vertical-to-horizontal) {
 	#bottom .wrap {
 		display: table;
 		padding: 40px 30px;
@@ -29,7 +29,7 @@
 	text-align: center;
 }
 
-@media (min-width: 940px) {
+@media (min-width: $bp-vertical-to-horizontal) {
 	#bottom .column {
 		background: url(../images/rule.bottom.png) repeat-y left top;
 		width: 260px;
@@ -87,7 +87,7 @@
 	top: -5px;
 }
 
-@media (min-width: 940px) {
+@media (min-width: $bp-vertical-to-horizontal) {
 	#bottom .be-booked {
 		margin: 0;
 	}

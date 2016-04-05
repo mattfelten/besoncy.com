@@ -58,7 +58,7 @@
 	font-size: 12px;
 }
 
-@media (min-width: 940px) {
+@media (min-width: $bp-vertical-to-horizontal) {
 	.homeIntro div {
 		float: left;
 		width: 440px;

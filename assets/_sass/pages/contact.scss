@@ -1,5 +1,5 @@
 
-@media (min-width: 940px) {
+@media (min-width: $bp-vertical-to-horizontal) {
 	#main #contact.mainCol {
 		width: 380px;
 		padding-right: 240px;
@@ -22,7 +22,7 @@
 	box-shadow: 0 1px 3px rgba(0,0,0,.3);
 }
 
-@media (min-width: 940px) {
+@media (min-width: $bp-vertical-to-horizontal) {
 	#contact #map {
 		position: absolute;
 		top: 0;
@@ -49,7 +49,7 @@
 	left: 0;
 }
 
-@media (min-width: 940px) {
+@media (min-width: $bp-vertical-to-horizontal) {
 	#contact address {
 		width: auto;
 	}

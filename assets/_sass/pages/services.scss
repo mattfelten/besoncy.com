@@ -9,7 +9,7 @@ p.cta {
 	opacity: .8;
 }
 
-@media (min-width: 940px) {
+@media (min-width: $bp-vertical-to-horizontal) {
 	#services .column {
 		float: left;
 		width: 280px;
@@ -93,7 +93,7 @@ p.cta {
 	}
 }
 
-@media (min-width: 940px) {
+@media (min-width: $bp-vertical-to-horizontal) {
 	#services p.label {
 		text-align: left;
 

@@ -11,7 +11,7 @@ header #logo {
 	margin: 0 auto;
 }
 
-@media (min-width: 940px) {
+@media (min-width: $bp-vertical-to-horizontal) {
 	header #logo {
 		float: left;
 	}
@@ -21,19 +21,14 @@ nav {
 	margin: 40px auto 0;
 	padding-top: 5px;
 	text-align: center;
-	width: 370px;
+	max-width: 370px;
 }
 
-@media (min-width: 645px) {
-	nav {
-		width: auto;
-	}
-}
-
-@media (min-width: 940px) {
+@media (min-width: $bp-vertical-to-horizontal) {
 	nav {
 		margin-top: 0;
 		margin-left: 321px;
+		max-width: none;
 	}
 }
 
@@ -44,14 +39,15 @@ nav {
 nav li {
 	display: inline-block;
 	position: relative;
-	margin: 0 40px;
+	width: 49%;
 	z-index: 1000;
 }
 
-@media (min-width: 940px) {
+@media (min-width: $bp-vertical-to-horizontal) {
 	nav li {
 		float: left;
 		margin: 0 0 0 78px;
+		width: auto;
 
 		&:first-child {
 			margin-left: 0;
