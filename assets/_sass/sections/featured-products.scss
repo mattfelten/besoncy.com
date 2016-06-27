@@ -1,18 +1,36 @@
 .featured-products-section {
-	margin-top: 4em;
-	width: 85%;
+	@media (min-width: $bp-vertical-to-horizontal) {
+		margin-top: 4em;
+		width: 85%;
+	}
 }
 
 .featured-product-label {
+	display: none;
 	font-size: .8em;
 	text-transform: uppercase;
+
+	@media (min-width: $bp-vertical-to-horizontal) {
+		display: block;
+	}
 }
 
 .featured-products {
 	@extend %list-unset;
 
 	li {
-		margin-top: 1em;
+		display: inline-block;
+		width: 45%;
+
+		&:nth-child(odd) {
+			margin-right: 5%;
+		}
+
+		@media (min-width: $bp-vertical-to-horizontal) {
+			display: block;
+			margin-top: 1em;
+			max-width: none;
+		}
 	}
 }
 
@@ -20,12 +38,12 @@
 	@include image-replace;
 	background-position: center center;
 	background-repeat: no-repeat;
-	display: block;
 
 	background-color: #fff;
 	border: 1px solid #ddd;
 	border-radius: 4px;
 	padding: 1em;
+	width: 100%;
 
 	transition: border .2s, box-shadow .2s;
 

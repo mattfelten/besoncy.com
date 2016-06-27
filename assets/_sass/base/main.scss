@@ -10,24 +10,28 @@
 }
 
 #main .leftCol {
-	display: none;
-	width: 260px;
-	margin: 0 40px 0 20px;
+	margin-bottom: 40px;
 }
 
 @media (min-width: $bp-vertical-to-horizontal) {
 	#main .leftCol {
-		display: block;
+		width: 260px;
+		margin: 0 40px 0 20px;
 		float: left;
 	}
 }
 
 #main .leftCol .quote {
 	color: #8f6d44;
+	display: none;
 	font-size: 20px;
 	font-weight: 200;
 	line-height: 37px;
 	text-transform: lowercase;
+
+	@media (min-width: $bp-vertical-to-horizontal) {
+		display: block;
+	}
 }
 
 #main .leftCol .quote cite {

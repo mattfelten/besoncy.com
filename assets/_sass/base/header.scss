@@ -8,13 +8,8 @@ header #logo {
 	width: 206px;
 	height: 69px;
 	background: url(../images/logo.png);
+	float: left;
 	margin: 0 auto;
-}
-
-@media (min-width: $bp-vertical-to-horizontal) {
-	header #logo {
-		float: left;
-	}
 }
 
 nav {

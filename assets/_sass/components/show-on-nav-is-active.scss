@@ -1,0 +1,13 @@
+.show-on-nav-is-active {
+	display: none;
+}
+
+.nav-is-active .show-on-nav-is-active {
+	display: block;
+}
+
+@media (min-width: $bp-vertical-to-horizontal) {
+	.show-on-nav-is-active {
+		display: block;
+	}
+}

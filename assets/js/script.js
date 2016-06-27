@@ -3,6 +3,12 @@ jQuery( function($) {
 		return false;
 	});
 
+	$('.js-nav-is-active').click(function(e){
+		e.preventDefault();
+		$(this).toggleClass('is-active');
+		$('body').toggleClass('nav-is-active');
+	});
+
 	$('ul.team li.bio').hide().first().show();
 	$('<button class="button-purple icon-down-arrow">Read Bio</button>').appendTo( $('ul.team') ).wrap('<li class="button" />').click( function(e) {
 			e.preventDefault();
