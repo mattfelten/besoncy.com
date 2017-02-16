@@ -105,38 +105,6 @@ jQuery( function($) {
     $('nav ul ul').each( function() {
     	$(this).css('marginLeft', -$(this).outerWidth()/2 - 15);
     });
-
-    $('div.gallery-thumbs').thumbSlider().find('li').click( function() {
-    	if( !$(this).hasClass('active') ) {
-    		$(this).addClass('active').siblings('.active').removeClass('active');
-    		$('div.gallery-main li').eq( $(this).index() ).addClass('active').siblings('.active').removeClass('active');
-    	}
-    });
-
-    $('div.gallery-wall li span').each( function() {
-    	$(this).css({
-    		marginTop: -($(this).height()/2),
-    		marginLeft: -($(this).width()/2)
-    	});
-    });
-
-    $('div.gallery-wall li > img').load( function() {
-    	$(this).hide().fadeIn();
-    });
-
-    if ($.browser.msie && $.browser.version.substr(0,1) <= 7) {
-	    $("div.gallery-wall li").hover( function() {
-			$(this).css('z-index', 10000).siblings().css('z-index', 1);
-		});
-	}
-
-    if( $('html').hasClass('no-csstransitions') ) {
-    	$('div.gallery-wall li').hover( function() {
-    		$('span', this).fadeIn('fast');
-    	}, function() {
-    		$('span', this).fadeOut('fast');
-    	}).children('span').hide();
-    }
 });
 
 $(window).load( function() {
@@ -144,41 +112,3 @@ $(window).load( function() {
 		$(this).css('marginLeft', -$(this).outerWidth()/2);
 	});
 });
-
-jQuery.fn.thumbSlider = function(options) {
-	return this.each( function() {
-		$slider = $(this);
-		$content = $('.content', this);
-		$wrap = $content.parent();
-		margin = 15;
-		options = options || {};
-
-		$content.css('position', 'absolute');
-		$wrap.css('position','relative');
-
-		$('a.next', this).click( function() {
-			if( $content.position().top - $wrap.height() >= -( $content.height() - $wrap.height() ) ) {
-				$content.animate({
-					top: '-='+ ($wrap.height() + margin)
-				});
-			}else {
-				$content.animate({
-					top: -( $content.height() - $wrap.height() ) - 3
-				});
-
-			}
-		});
-
-		$('a.prev', this).click( function() {
-			if( $content.position().top + $wrap.height() <= -margin ) {
-				$content.animate({
-					top: '+='+($wrap.height() + margin )
-				});
-			}else {
-				$content.animate({
-					top: -margin
-				});
-			}
-		});
-	});
-}
