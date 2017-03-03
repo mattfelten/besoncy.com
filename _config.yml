@@ -3,7 +3,7 @@ name: Soncy
 
 # Jekyll Config
 markdown: redcarpet
-exclude: ['deploy.yml', 'Gemfile', 'Gemfile.lock']
+exclude: ['Gemfile', 'Gemfile.lock']
 
 # Server Config
 host: besoncy.dev
