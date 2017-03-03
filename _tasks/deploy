@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+local_files='_site/';
+remote_server='besoncy.com';
+remote_files='besoncy.com';
+
+bundle exec jekyll build && ssh $remote_server "cp -r $remote_files ${remote_files}.bak" && rsync -v -rz --checksum --delete $local_files $remote_server:$remote_files/
